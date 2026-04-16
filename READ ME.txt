@@ -1,0 +1,32 @@
+# Spotify Data Analysis
+
+## Overview
+This project analyzes a Spotify dataset to explore how features such as views, likes, and streams relate to song popularity. The goal is to identify key patterns and build a simple predictive model using data analysis techniques.
+
+## How to Run
+1. Download the notebook file (`.ipynb`)
+2. Download the Spotify dataset and copy its path
+3. Open the notebook using Jupyter Notebook, VS Code, or Google Colab
+4. Update the dataset import path in cell #2 using the path you copied.
+5. Run the cells sequentially
+
+## Methods Used
+- Data Cleaning (formatting and validation)
+- Data Reduction (sampling, feature selection)
+- Data Transformation (normalization)
+- Data Visualization (histograms)
+- Correlation Analysis
+- Linear Regression
+
+## Tools
+Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
+## Key Findings
+- Views, likes, and streams show positive relationships with popularity  
+- Some variables have stronger predictive power than others  
+- Linear regression can help estimate popularity trends  
+
+## Future Work
+- Use the full dataset  
+- Apply more advanced models  
+- Include additional features for deeper analysis  

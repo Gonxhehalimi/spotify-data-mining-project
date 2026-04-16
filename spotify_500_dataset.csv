@@ -1,0 +1,501 @@
+﻿Artist,Track,Album,Album_type,Genre,Views,Likes,Licensed,Stream,Most_playedon,Popularity_score,Views_Normalized,Likes_Normalized,Stream_Normalized
+Coldplay,Yellow,Parachutes,album,Alternative Rock,"832,532,409","4,600,933",TRUE,"1,483,622,308",Spotify,"2,320,755,650",0.140906611,0.148188792,0.438096389
+Coldplay,Viva La Vida,Viva La Vida or Death and All His Friends,album,Alternative Rock,"789,581,468","4,370,461",TRUE,"1,325,575,712",Spotify,"2,119,527,641",0.133637139,0.140765652,0.391427069
+Coldplay,Sparks,Parachutes,album,Alternative Rock,"73,201,019","787,343",TRUE,"475,353,044",Spotify,"549,341,406",0.012389317,0.025359076,0.140366218
+Coldplay,Something Just Like This,Memories...Do Not Open,album,Alternative Rock,"2,118,018,686","10,282,499",TRUE,"2,030,825,694",Youtube,"4,159,126,879",0.358475938,0.331183067,0.599679175
+Coldplay,The Scientist,A Rush of Blood to the Head,album,Alternative Rock,"1,082,588,109","5,532,787",TRUE,"1,465,980,600",Spotify,"2,554,101,496",0.183228689,0.178202338,0.432886998
+Coldplay,A Sky Full of Stars,Ghost Stories,album,Alternative Rock,"786,404,613","3,741,300",TRUE,"1,021,782,403",Spotify,"1,811,928,316",0.133099454,0.120501369,0.301720443
+Coldplay,Paradise,Mylo Xyloto,album,Alternative Rock,"1,665,814,269","8,497,224",TRUE,"927,288,329",Youtube,"2,601,599,822",0.281940068,0.273682176,0.273817444
+Coldplay,Hymn for the Weekend,A Head Full of Dreams,album,Alternative Rock,"1,828,242,112","13,515,772",TRUE,"1,049,654,852",Youtube,"2,891,412,736",0.309431078,0.435321688,0.309950853
+Coldplay,My Universe,Music Of The Spheres,album,Alternative Rock,"254,655,970","8,867,547",TRUE,"883,224,238",Spotify,"1,146,747,755",0.043100676,0.285609696,0.260805831
+Coldplay,Fix You,X&Y,album,Alternative Rock,"566,239,229","2,962,029",TRUE,"1,115,171,056",Spotify,"1,684,372,314",0.09583633,0.09540228,0.329297025
+Eminem,Mockingbird,Encore (Deluxe Version),album,Hip-Hop,"719,661,717","5,550,929",TRUE,"908,006,704",Spotify,"1,633,219,350",0.121803179,0.178786664,0.268123805
+Eminem,Without Me,The Eminem Show,album,Hip-Hop,"1,590,485,349","11,469,490",TRUE,"1,457,351,902",Youtube,"3,059,306,741",0.269190603,0.369414174,0.430339044
+Eminem,The Real Slim Shady,The Marshall Mathers LP,album,Hip-Hop,"777,507,160","6,489,755",TRUE,"1,232,567,233",Spotify,"2,016,564,148",0.131593555,0.209024768,0.363962749
+Eminem,Superman,The Eminem Show,album,Hip-Hop,"139,257,221","950,561",TRUE,"466,021,760",Spotify,"606,229,542",0.023569369,0.03061607,0.137610798
+Eminem,Till I Collapse,The Eminem Show,album,Hip-Hop,"1,931,315","18,992",FALSE,"1,548,871,694",Spotify,"1,550,822,001",0.000326876,0.000611702,0.457363772
+Eminem,Stan,The Marshall Mathers LP,album,Hip-Hop,"623,027,280","5,152,714",TRUE,"799,979,337",Spotify,"1,428,159,331",0.105447742,0.165960787,0.236224581
+Eminem,Love The Way You Lie,Recovery,album,Hip-Hop,"2,539,156,924","12,696,568",TRUE,"1,115,478,746",Youtube,"3,667,332,238",0.429753838,0.40893642,0.329387882
+Eminem,Godzilla (feat. Juice WRLD),Music To Be Murdered By,album,Hip-Hop,"547,039,623","9,287,567",FALSE,"1,072,650,382",Spotify,"1,628,977,572",0.092586786,0.299137877,0.316741165
+Eminem,Sing For The Moment,The Eminem Show,album,Hip-Hop,"454,015,875","2,471,743",TRUE,"357,737,050",Youtube,"814,224,668",0.07684246,0.079610942,0.105635584
+Eminem,Not Afraid,Recovery,album,Hip-Hop,"1,727,241,246","11,425,215",TRUE,"789,922,926",Youtube,"2,528,589,387",0.292336621,0.367988146,0.23325504
+Maroon 5,Memories,JORDI (Deluxe),album,Pop Rock,"901,829,354","9,050,321",TRUE,"1,651,772,677",Spotify,"2,562,652,352",0.152635161,0.291496558,0.487749234
+Maroon 5,Payphone,Overexposed (Deluxe),album,Pop Rock,"814,693,726","5,409,564",TRUE,"1,302,191,678",Spotify,"2,122,294,968",0.137887404,0.17423352,0.384522037
+Maroon 5,Maps,V,album,Pop Rock,"486,018,762","2,240,073",TRUE,"1,151,909,237",Spotify,"1,640,168,072",0.082258968,0.072149216,0.340145382
+Maroon 5,Sugar,V,album,Pop Rock,"3,817,733,132","15,340,646",TRUE,"1,502,780,803",Youtube,"5,335,854,581",0.646153631,0.494098,0.443753669
+Maroon 5,Beautiful Mistakes (feat. Megan Thee Stallion),JORDI (Deluxe),album,Pop Rock,"146,805,833","1,486,916",TRUE,"562,537,258",Spotify,"710,830,007",0.024846976,0.047891218,0.166110701
+Maroon 5,Animals,V,album,Pop Rock,"850,256,052","5,943,212",TRUE,"1,034,482,506",Spotify,"1,890,681,770",0.143906349,0.19142148,0.305470636
+Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Hands All Over,album,Pop Rock,26,0,FALSE,"1,004,576,500",Spotify,"1,004,576,526",4.40052E-09,0,0.296639741
+Maroon 5,This Love,Songs About Jane: 10th Anniversary Edition,album,Pop Rock,"272,204,297","1,621,599",TRUE,"758,864,691",Spotify,"1,032,690,587",0.046070741,0.052229145,0.224083905
+Maroon 5,She Will Be Loved - Radio Mix,Songs About Jane: 10th Anniversary Edition,album,Pop Rock,"4,622,809","54,523",TRUE,"1,119,814,516",Spotify,"1,124,491,848",0.000782413,0.0017561,0.330668185
+Maroon 5,One More Night,Overexposed (Deluxe),album,Pop Rock,"1,017,088,339","4,363,461",TRUE,"633,577,750",Youtube,"1,655,029,550",0.172142814,0.140540193,0.187088131
+Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Black Panther: Wakanda Forever - Music From and Inspired By,album,Pop,"78,457,959","2,057,945",TRUE,"174,344,273",Spotify,"254,860,177",0.013279057,0.066283161,0.051481833
+Rihanna,Love On The Brain,ANTI (Deluxe),album,Pop,"342,051,359",0,FALSE,"1,036,635,597",Spotify,"1,378,686,956",0.057892398,0,0.306106419
+Rihanna,Umbrella,Good Girl Gone Bad,album,Pop,"872,331,461","4,832,737",TRUE,"1,043,394,226",Spotify,"1,920,558,424",0.147642625,0.155654833,0.308102163
+Rihanna,Needed Me,ANTI (Deluxe),album,Pop,"311,367,309","3,054,195",TRUE,"1,150,692,722",Spotify,"1,465,114,226",0.052699105,0.098370801,0.339786159
+Rihanna,This Is What You Came For,This Is What You Came For,single,Pop,"2,626,029,906","10,603,656",TRUE,"1,389,243,583",Youtube,"4,025,877,145",0.444457143,0.341527027,0.41022745
+Rihanna,Don't Stop The Music,Good Girl Gone Bad,album,Pop,"635,252,497","2,204,816",TRUE,"651,428,830",Spotify,"1,288,886,143",0.107516868,0.071013644,0.192359347
+Rihanna,Only Girl (In The World),Loud (Japan Version),album,Pop,"885,996,970","3,015,922",TRUE,"648,916,568",Youtube,"1,537,929,460",0.149955521,0.097138088,0.191617505
+Rihanna,Pon de Replay,Music Of The Sun,album,Pop,"195,174,056","1,284,251",TRUE,"526,013,169",Spotify,"722,471,476",0.033033326,0.041363698,0.155325563
+Rihanna,Stay,Unapologetic (Edited Version),album,Pop,"1,063,298,927","4,683,978",TRUE,"933,966,110",Youtube,"2,001,949,015",0.179963984,0.15086354,0.275789315
+Rihanna,We Found Love,Talk That Talk,album,Pop,"1,057,066,266","4,538,290",TRUE,"1,018,031,880",Youtube,"2,079,636,436",0.178909102,0.146171159,0.300612958
+Ed Sheeran,Perfect,÷ (Deluxe),album,Pop,"3,361,086,287","19,033,010",TRUE,"2,312,689,776",Youtube,"5,692,809,073",0.568865878,0.613023218,0.682910356
+Ed Sheeran,Bad Habits,0,album,Pop,"476,163,563","4,193,306",TRUE,"1,401,517,917",Spotify,"1,881,874,786",0.08059097,0.135059769,0.413851918
+Ed Sheeran,Shivers,0,album,Pop,"259,267,738","2,182,153",TRUE,"1,104,261,508",Spotify,"1,365,711,399",0.043881221,0.070283705,0.326075563
+Ed Sheeran,Shape of You,÷ (Deluxe),album,Pop,"5,908,398,479","31,047,780",TRUE,"3,362,005,201",Youtube,"9,301,451,460",1,1,0.99276098
+Ed Sheeran,Photograph,x (Wembley Edition),album,Pop,"1,265,617,910","6,645,829",TRUE,"2,067,689,483",Spotify,"3,339,953,222",0.214206593,0.214051665,0.610564623
+Ed Sheeran,Celestial,Celestial,single,Pop,"24,283,273","561,172",TRUE,"92,498,982",Spotify,"117,343,427",0.004109959,0.018074465,0.027313872
+Ed Sheeran,Thinking out Loud,x (Wembley Edition),album,Pop,"3,547,155,867","14,343,730",TRUE,"2,154,334,378",Youtube,"5,715,833,975",0.600358266,0.461988909,0.636149851
+Ed Sheeran,Bam Bam (feat. Ed Sheeran),Familia,album,Pop,"140,993,773","1,834,062",TRUE,"619,247,782",Spotify,"762,075,617",0.023863281,0.059072243,0.182856658
+Ed Sheeran,For My Hand (feat. Ed Sheeran),"Love, Damini",album,Pop,"80,086,629","689,733",TRUE,"119,730,400",Spotify,"200,506,762",0.01355471,0.022215212,0.035354993
+Ed Sheeran,Happier,÷ (Deluxe),album,Pop,"397,154,250","3,012,544",TRUE,"1,160,906,130",Spotify,"1,561,072,924",0.067218596,0.097029288,0.34280206
+Taylor Swift,Anti-Hero,Midnights,album,Pop,"101,169,702","2,808,718",TRUE,"530,534,722",Spotify,"634,513,142",0.017123033,0.090464375,0.156660725
+Taylor Swift,Lavender Haze,Midnights,album,Pop,"14,004,124","1,082,514",TRUE,"263,032,419",Spotify,"278,119,057",0.002370206,0.034866068,0.07767041
+Taylor Swift,Don’t Blame Me,reputation,album,Pop,"229,100","4,707",FALSE,"464,198,683",Spotify,"464,432,490",3.87753E-05,0.000151605,0.137072465
+Taylor Swift,Midnight Rain,Midnights,album,Pop,"21,346,495","307,045",TRUE,"252,321,626",Spotify,"273,975,166",0.003612907,0.009889435,0.074507637
+Taylor Swift,Blank Space,1989,album,Pop,"3,096,802,224","14,114,951",TRUE,"1,068,961,957",Youtube,"4,179,879,132",0.524135641,0.454620298,0.315652016
+Taylor Swift,cardigan,folklore,album,Pop,"116,554,651","2,503,027",TRUE,"563,359,986",Spotify,"682,417,664",0.019726945,0.08061855,0.166353643
+Taylor Swift,Snow On The Beach (feat. Lana Del Rey),Midnights,album,Pop,"653,845","13,249",FALSE,"213,946,441",Spotify,"214,613,535",0.000110664,0.000426729,0.063175892
+Taylor Swift,Lover,Lover,album,Pop,"212,206,142","3,066,281",TRUE,"703,277,114",Spotify,"918,549,537",0.035916017,0.098760072,0.207669541
+Taylor Swift,"You're On Your Own, Kid",Midnights,album,Pop,"13,770,377","202,527",TRUE,"206,182,675",Spotify,"220,155,579",0.002330645,0.006523075,0.060883343
+Taylor Swift,Bejeweled,Midnights,album,Pop,"43,850,467","1,637,971",TRUE,"191,306,722",Spotify,"236,795,160",0.007421718,0.052756461,0.056490647
+Katy Perry,Dark Horse,PRISM,album,Pop,"3,442,526,730","16,342,399",TRUE,"1,067,826,820",Youtube,"4,526,695,949",0.582649722,0.526362883,0.315316824
+Katy Perry,Unconditionally,PRISM,album,Pop,"652,271,151","3,433,059",TRUE,"456,680,831",Youtube,"1,112,385,041",0.110397285,0.110573413,0.134852531
+Katy Perry,When I’m Gone (with Katy Perry),When I’m Gone (with Katy Perry),single,Pop,"29,668,486","582,383",TRUE,"179,992,904",Spotify,"210,243,773",0.005021409,0.018757637,0.053149808
+Katy Perry,Roar,PRISM,album,Pop,"3,725,748,519","15,864,499",TRUE,"884,721,001",Youtube,"4,626,334,019",0.63058518,0.510970478,0.261247808
+Katy Perry,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,album,Pop,"673,497,801","4,097,989",TRUE,"981,287,133",Spotify,"1,658,882,923",0.113989908,0.131989759,0.289762662
+Katy Perry,The One That Got Away,Teenage Dream,album,Pop,"953,056,719","4,500,259",TRUE,"600,106,818",Youtube,"1,557,663,796",0.161305424,0.144946241,0.177204554
+Katy Perry,Harleys In Hawaii,Smile,album,Pop,"108,154,748","1,966,195",TRUE,"333,871,953",Spotify,"443,992,896",0.018305256,0.063328038,0.098588499
+Katy Perry,Last Friday Night (T.G.I.F.),Teenage Dream,album,Pop,"1,454,602,433","6,701,586",TRUE,"755,406,330",Youtube,"2,216,710,349",0.246192338,0.21584751,0.223062691
+Katy Perry,Firework,Teenage Dream,album,Pop,"1,406,704,456","6,231,519",TRUE,"777,626,685",Youtube,"2,190,562,660",0.238085576,0.200707394,0.229624103
+Katy Perry,California Gurls,Teenage Dream,album,Pop,"674,401,032","3,347,202",TRUE,"569,808,223",Youtube,"1,247,556,457",0.114142781,0.107808094,0.168257732
+Sam Smith,Unholy (feat. Kim Petras),Gloria,album,Pop,"120,035,045","2,313,581",TRUE,"771,282,498",Spotify,"893,631,124",0.020316004,0.074516793,0.227750739
+Sam Smith,I'm Not The Only One,In The Lonely Hour,album,Pop,"1,509,259,073","6,256,519",TRUE,"1,446,878,711",Youtube,"2,962,394,303",0.255443007,0.201512604,0.427246432
+Sam Smith,Stay With Me,In The Lonely Hour,album,Pop,"1,163,047,373","5,390,380",TRUE,"1,682,210,631",Spotify,"2,850,648,384",0.196846468,0.173615634,0.496737207
+Sam Smith,Too Good At Goodbyes,The Thrill Of It All (Special Edition),album,Pop,"1,396,618,983","6,834,635",TRUE,"1,646,495,621",Spotify,"3,049,949,239",0.236378604,0.220132808,0.486190981
+Sam Smith,Like I Can,In The Lonely Hour,album,Pop,"139,179,202","831,927",TRUE,"645,144,638",Spotify,"785,155,767",0.023556164,0.026795056,0.190503698
+Sam Smith,Gimme (feat. Koffee & Jessie Reyez),Gloria,album,Pop,"2,600,969","63,098",TRUE,"13,385,723",Spotify,"16,049,790",0.000440216,0.002032287,0.003952648
+Sam Smith,I'm Not Here To Make Friends,Gloria,album,Pop,"4,847,763","157,076",TRUE,"7,259,295",Spotify,"12,264,134",0.000820487,0.00505917,0.002143585
+Sam Smith,Fire On Fire,Love Goes,album,Pop,"275,040,863","2,626,287",TRUE,"531,694,147",Spotify,"809,361,297",0.046550832,0.08458856,0.157003089
+Sam Smith,Have Yourself A Merry Little Christmas,Have Yourself A Merry Little Christmas,single,Pop,"28,456,794","202,683",TRUE,"281,631,616",Spotify,"310,291,093",0.00481633,0.0065281,0.083162536
+Sam Smith,Promises (with Sam Smith),Promises (with Sam Smith),single,Pop,"216,485,413","1,320,684",TRUE,"926,352,296",Spotify,"1,144,158,393",0.036640286,0.042537148,0.273541044
+Lady Gaga,Bloody Mary,Born This Way (Special Edition),album,Pop,"28,215,882","349,470",FALSE,"208,978,461",Spotify,"237,543,813",0.004775555,0.011255877,0.061708906
+Lady Gaga,Shallow,A Star Is Born Soundtrack,album,Pop,"1,410,151,988","7,651,912",TRUE,"2,004,338,878",Spotify,"3,422,142,778",0.238669073,0.246456011,0.591857927
+Lady Gaga,Bad Romance,The Fame Monster (Deluxe Edition),album,Pop,"1,651,059,028","8,283,806",TRUE,"879,720,666",Youtube,"2,539,063,500",0.279442735,0.266808319,0.259771267
+Lady Gaga,Always Remember Us This Way,A Star Is Born Soundtrack (Without Dialogue),album,Pop,"428,487,364","2,429,751",TRUE,"903,516,947",Spotify,"1,334,434,062",0.072521744,0.078258446,0.266798032
+Lady Gaga,Just Dance,The Fame,album,Pop,"398,621,640","1,733,062",TRUE,"701,036,282",Spotify,"1,101,390,984",0.067466953,0.055819192,0.207007849
+Lady Gaga,Poker Face,The Fame,album,Pop,"1,095,354,937","6,103,722",TRUE,"852,750,053",Youtube,"1,954,208,712",0.185389483,0.196591254,0.251807159
+Lady Gaga,Judas,Born This Way,album,Pop,"439,580,527","2,488,793",TRUE,"278,948,888",Youtube,"721,018,208",0.074399269,0.080160095,0.082370358
+Lady Gaga,Applause,ARTPOP,album,Pop,"414,170,299","2,515,961",TRUE,"384,423,735",Youtube,"801,109,995",0.070098572,0.081035134,0.113515852
+Lady Gaga,Hold My Hand,Top Gun: Maverick (Music From The Motion Picture),album,Pop,"146,295,690","1,321,636",TRUE,"176,029,778",Spotify,"323,647,104",0.024760634,0.04256781,0.051979543
+Lady Gaga,Million Reasons,Joanne (Deluxe),album,Pop,"306,744,336","2,230,653",TRUE,"683,487,486",Spotify,"992,462,475",0.051916664,0.071845813,0.201825894
+Drake,Rich Flex,Her Loss,album,Hip-Hop,"3,927,054","54,758",FALSE,"311,694,937",Spotify,"315,676,749",0.000664656,0.001763669,0.092039885
+Drake,Jimmy Cooks (feat. 21 Savage),"Honestly, Nevermind",album,Hip-Hop,"12,454,414","461,655",FALSE,"413,205,085",Spotify,"426,121,154",0.002107917,0.014869179,0.122014649
+Drake,WAIT FOR U (feat. Drake & Tems),I NEVER LIKED YOU,album,Hip-Hop,"91,997,342","533,458",TRUE,"394,495,536",Spotify,"487,026,336",0.015570606,0.01718184,0.116489937
+Drake,Pussy & Millions (feat. Travis Scott),Her Loss,album,Hip-Hop,"1,166,342","3,790",FALSE,"119,787,835",Spotify,"120,957,967",0.000197404,0.00012207,0.035371953
+Drake,One Dance,Views,album,Hip-Hop,"169,288,294","1,662,640",FALSE,"2,522,431,995",Spotify,"2,693,382,929",0.028652146,0.053551011,0.744844791
+Drake,On BS,Her Loss,album,Hip-Hop,"213,124","3,427",FALSE,"100,595,022",Spotify,"100,811,573",3.60714E-05,0.000110378,0.029704538
+Drake,God's Plan,Scorpion,album,Hip-Hop,"1,467,723,572","15,244,903",TRUE,"2,102,889,031",Spotify,"3,585,857,506",0.248413098,0.491014269,0.62095864
+Drake,Major Distribution,Her Loss,album,Hip-Hop,"36,803",627,FALSE,"107,919,519",Spotify,"107,956,949",6.22893E-06,2.01947E-05,0.031867377
+Drake,Spin Bout U,Her Loss,album,Hip-Hop,"1,112,065","8,576",FALSE,"87,618,118",Spotify,"88,738,759",0.000188218,0.000276219,0.02587261
+Drake,Knife Talk (with 21 Savage ft. Project Pat),Certified Lover Boy,album,Hip-Hop,"74,246,156","796,560",TRUE,"501,420,741",Spotify,"576,463,457",0.012566207,0.025655941,0.148063705
+Ariana Grande,Santa Tell Me,Santa Tell Me,single,Pop,"273,587,108","3,068,395",TRUE,"826,416,078",Spotify,"1,103,071,581",0.046304783,0.098828161,0.244031043
+Ariana Grande,7 rings,"thank u, next",album,Pop,"1,241,561,447","15,332,167",TRUE,"1,895,706,370",Spotify,"3,152,599,984",0.210135022,0.493824905,0.559780013
+Ariana Grande,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,After Hours (Deluxe),album,Pop,"253,187,553","3,384,673",TRUE,"1,025,392,875",Spotify,"1,281,965,101",0.042852146,0.109014976,0.302786574
+Ariana Grande,positions,Positions,album,Pop,"480,074,066","8,112,778",TRUE,"1,144,347,767",Spotify,"1,632,534,611",0.081252825,0.261299777,0.337912568
+Ariana Grande,One Last Time,My Everything (Deluxe),album,Pop,"355,997,948","3,375,236",TRUE,"1,090,948,668",Spotify,"1,450,321,852",0.060252867,0.108711025,0.322144436
+Ariana Grande,"thank u, next","thank u, next",album,Pop,"749,903,471","13,374,550",TRUE,"1,634,130,431",Spotify,"2,397,408,452",0.126921614,0.43077315,0.482539684
+Ariana Grande,Stuck with U (with Justin Bieber),Stuck with U,single,Pop,"209,132,864","4,787,585",TRUE,"903,479,196",Spotify,"1,117,399,645",0.035395863,0.154200558,0.266786884
+Ariana Grande,34+35,Positions,album,Pop,"285,258,274","4,966,928",TRUE,"800,804,844",Spotify,"1,091,030,046",0.048280135,0.159976913,0.236468344
+Ariana Grande,boyfriend (with Social House),boyfriend,single,Pop,"228,625,585","4,175,248",TRUE,"624,023,819",Spotify,"856,824,652",0.038695018,0.134478149,0.184266966
+Ariana Grande,God is a woman,Sweetener,album,Pop,"380,917,647","5,264,740",TRUE,"912,161,840",Spotify,"1,298,344,227",0.064470541,0.169568968,0.269350768
+Imagine Dragons,Bones,Mercury - Acts 1 & 2,album,Alternative Rock,"142,986,771","2,218,558",TRUE,"524,720,441",Spotify,"669,925,770",0.024200597,0.071456252,0.154943835
+Imagine Dragons,Believer,Evolve,album,Alternative Rock,"2,369,714,846","20,483,444",TRUE,"2,369,272,335",Youtube,"4,759,470,625",0.401075664,0.659739408,0.699618527
+Imagine Dragons,Thunder,Evolve,album,Alternative Rock,"1,936,849,342","11,935,830",TRUE,"1,900,080,651",Youtube,"3,848,865,823",0.327812917,0.384434249,0.561071687
+Imagine Dragons,Enemy (with JID) - from the series Arcane League of Legends,Mercury - Acts 1 & 2,album,Alternative Rock,"296,318,565","5,229,644",TRUE,"1,044,984,022",Spotify,"1,346,532,231",0.050152096,0.168438581,0.308571611
+Imagine Dragons,Demons,Night Visions,album,Alternative Rock,"1,044,202,331","7,650,933",TRUE,"1,643,098,973",Spotify,"2,694,952,237",0.176731873,0.246424479,0.48518799
+Imagine Dragons,Natural,Origins (Deluxe),album,Alternative Rock,"537,581,730","5,067,694",TRUE,"972,016,370",Spotify,"1,514,665,794",0.090986031,0.163222427,0.287025113
+Imagine Dragons,Whatever It Takes,Evolve,album,Alternative Rock,"857,708,036","5,305,762",TRUE,"968,589,615",Spotify,"1,831,603,413",0.145167602,0.170890221,0.286013233
+Imagine Dragons,Bad Liar,Origins (Deluxe),album,Alternative Rock,"418,271,237","4,308,174",TRUE,"831,122,837",Spotify,"1,253,702,248",0.070792659,0.138759486,0.245420894
+Imagine Dragons,Radioactive,Night Visions,album,Alternative Rock,"1,426,556,409","9,256,200",TRUE,"1,470,259,042",Spotify,"2,906,071,651",0.241445531,0.298127596,0.434150372
+Imagine Dragons,Sharks,Mercury - Acts 1 & 2,album,Alternative Rock,"63,595,971","818,238",TRUE,"134,166,642",Spotify,"198,580,851",0.010763656,0.026354155,0.039617847
+Bruno Mars,When I Was Your Man,Unorthodox Jukebox,album,Pop,"1,237,507,463","6,771,190",TRUE,"1,439,566,947",Spotify,"2,683,845,600",0.209448883,0.218089345,0.425087354
+Bruno Mars,Locked out of Heaven,Unorthodox Jukebox,album,Pop,"953,668,445","6,108,022",TRUE,"1,291,353,645",Spotify,"2,251,130,112",0.161408959,0.19672975,0.381321692
+Bruno Mars,That's What I Like,24K Magic,album,Pop,"2,102,232,829","12,567,365",TRUE,"1,562,466,168",Youtube,"3,677,266,362",0.355804172,0.404774995,0.461378062
+Bruno Mars,Leave The Door Open,An Evening With Silk Sonic,album,Pop,"637,665,698","6,925,257",TRUE,"1,006,100,004",Spotify,"1,650,690,959",0.107925303,0.2230516,0.297089614
+Bruno Mars,Just the Way You Are,Doo-Wops & Hooligans,album,Pop,"1,792,439,997","7,658,128",TRUE,"1,464,356,586",Youtube,"3,264,454,711",0.303371549,0.246656218,0.432407445
+Bruno Mars,Talking to the Moon,Doo-Wops & Hooligans,album,Pop,"9,077,697","126,356",FALSE,"934,528,321",Spotify,"943,732,374",0.001536406,0.004069727,0.275955329
+Bruno Mars,Treasure,Unorthodox Jukebox,album,Pop,"675,771,536","3,796,671",TRUE,"744,550,173",Spotify,"1,424,118,380",0.114374739,0.122284782,0.219856995
+Bruno Mars,24K Magic,24K Magic,album,Pop,"1,560,261,356","7,995,643",TRUE,"1,188,857,393",Youtube,"2,757,114,392",0.264075174,0.257527044,0.351055742
+Bruno Mars,Grenade,Doo-Wops & Hooligans,album,Pop,"1,120,763,133","5,445,873",TRUE,"935,028,274",Youtube,"2,061,237,280",0.189689835,0.175402976,0.27610296
+Bruno Mars,Smokin Out The Window,An Evening With Silk Sonic,album,Pop,"151,531,073","2,221,641",TRUE,"331,055,439",Spotify,"484,808,153",0.025646725,0.071555551,0.097756816
+Justin Bieber,STAY (with Justin Bieber),F*CK LOVE 3+: OVER YOU,album,Pop,"681,205,578","10,131,328",TRUE,"2,365,777,505",Spotify,"3,057,114,411",0.115294454,0.326314088,0.698586544
+Justin Bieber,Ghost,Justice,album,Pop,"224,579,722","2,888,687",TRUE,"941,372,658",Spotify,"1,168,841,067",0.038010253,0.09304005,0.277976382
+Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),Justice,album,Pop,"618,919,778","7,638,701",TRUE,"1,335,838,557",Spotify,"1,962,397,036",0.104752545,0.246030505,0.394457568
+Justin Bieber,Love Yourself,Purpose (Deluxe),album,Pop,"273,175","5,121",FALSE,"1,975,866,785",Spotify,"1,976,145,081",4.6235E-05,0.000164939,0.58345045
+Justin Bieber,Mistletoe,Under The Mistletoe (Deluxe Edition),album,Pop,"474,786,201","3,332,011",TRUE,"622,252,277",Spotify,"1,100,370,489",0.08035785,0.107318816,0.18374385
+Justin Bieber,Sorry,Purpose (Deluxe),album,Pop,"3,627,305,503","15,789,307",TRUE,"1,740,759,086",Youtube,"5,383,853,896",0.61392364,0.508548663,0.514025884
+Justin Bieber,Stuck with U (with Justin Bieber),Stuck with U,single,Pop,"209,132,864","4,787,587",TRUE,"903,479,196",Spotify,"1,117,399,647",0.035395863,0.154200622,0.266786884
+Justin Bieber,Baby,My World 2.0,album,Pop,"2,905,792,670","23,212,268",TRUE,"625,188,054",Youtube,"3,554,192,992",0.491807159,0.747630523,0.184610751
+Justin Bieber,What Do You Mean?,Purpose (Deluxe),album,Pop,"2,218,679,460","10,318,664",TRUE,"1,377,607,834",Youtube,"3,606,605,958",0.375512834,0.332347884,0.406791549
+Justin Bieber,Off My Face,Justice,album,Pop,"30,385,285","480,674",FALSE,"209,625,470",Spotify,"240,491,429",0.005142728,0.015481751,0.06189996
+The Weeknd,Creepin' (with The Weeknd & 21 Savage),HEROES & VILLAINS,album,R&B,"5,581,883","77,540",FALSE,"279,832,635",Spotify,"285,492,058",0.000944737,0.002497441,0.082631318
+The Weeknd,Starboy,Starboy,album,R&B,"2,168,809,930","10,528,200",TRUE,"2,180,812,000",Spotify,"4,360,150,130",0.367072386,0.339096708,0.643968385
+The Weeknd,Blinding Lights,After Hours,album,R&B,"674,164,500","8,817,927",TRUE,"3,386,520,288",Spotify,"4,069,502,715",0.114102748,0.284011514,1
+The Weeknd,I Was Never There,"My Dear Melancholy,",album,R&B,"118,491,461","1,354,692",FALSE,"495,979,508",Spotify,"615,825,661",0.020054751,0.043632492,0.146456972
+The Weeknd,Die For You,Starboy,album,R&B,"57,996,459","1,261,212",TRUE,"1,198,565,512",Spotify,"1,257,823,183",0.009815936,0.040621648,0.353922437
+The Weeknd,Call Out My Name,"My Dear Melancholy,",album,R&B,"838,360,134","5,977,866",TRUE,"1,252,112,924",Spotify,"2,096,450,924",0.141892957,0.192537631,0.369734364
+The Weeknd,Save Your Tears,After Hours,album,R&B,"1,060,159,754","7,481,108",TRUE,"1,368,121,562",Spotify,"2,435,762,424",0.179432677,0.240954683,0.403990363
+The Weeknd,The Hills,Beauty Behind The Madness,album,R&B,"1,933,920,747","11,780,694",TRUE,"1,762,745,054",Youtube,"3,708,446,495",0.327317251,0.379437564,0.520518085
+The Weeknd,After Hours,After Hours,album,R&B,"2,024,476","20,273",FALSE,"539,593,993",Spotify,"541,638,742",0.000342644,0.000652961,0.159335822
+The Weeknd,Lost in the Fire (feat. The Weeknd),Hyperion,album,R&B,"186,523,810","1,757,368",TRUE,"567,689,900",Spotify,"755,971,078",0.031569267,0.05660205,0.167632216
+Shawn Mendes,There's Nothing Holdin' Me Back,Illuminate (Deluxe),album,Pop,"1,168,946,145","8,771,309",TRUE,"1,546,722,489",Spotify,"2,724,439,943",0.197844839,0.282510022,0.456729137
+Shawn Mendes,Treat You Better,Illuminate,album,Pop,"2,315,953,928","11,040,774",TRUE,"1,697,308,263",Youtube,"4,024,302,965",0.391976597,0.355605908,0.501195362
+Shawn Mendes,Mercy,Illuminate (Deluxe),album,Pop,"392,802,028","3,756,020",TRUE,"1,112,788,942",Spotify,"1,509,346,990",0.06648198,0.120975477,0.328593614
+Shawn Mendes,Señorita,Shawn Mendes (Deluxe),album,Pop,"1,487,649,395","19,846,114",TRUE,"2,336,219,850",Spotify,"3,843,715,359",0.251785556,0.639212015,0.689858513
+Shawn Mendes,Stitches,Handwritten,album,Pop,"1,515,227,230","11,151,088",TRUE,"1,534,955,467",Spotify,"3,061,333,785",0.256453121,0.359158948,0.453254473
+Shawn Mendes,Summer of Love (Shawn Mendes & Tainy),Summer Of Love,single,Pop,"36,655,981","720,895",TRUE,"290,520,956",Spotify,"327,897,832",0.006204047,0.02321889,0.085787455
+Shawn Mendes,When You're Gone,When You're Gone,single,Pop,"33,518,749","548,757",TRUE,"201,576,351",Spotify,"235,643,857",0.005673068,0.017674597,0.059523149
+Shawn Mendes,It'll Be Okay,It'll Be Okay,single,Pop,"51,641,161","1,285,837",TRUE,"245,226,560",Spotify,"298,153,558",0.008740298,0.041414781,0.072412547
+Shawn Mendes,Imagination,Handwritten (Deluxe),album,Pop,"918,363","17,349",FALSE,"336,405,722",Spotify,"337,341,434",0.000155433,0.000558784,0.099336692
+Shawn Mendes,In My Blood,Shawn Mendes,album,Pop,"347,731,363","3,392,977",TRUE,"809,589,128",Spotify,"1,160,713,468",0.058853743,0.109282435,0.239062241
+Post Malone,I Like You (A Happier Song) (with Doja Cat),Twelve Carat Toothache,album,Hip-Hop,"70,399,749","1,166,602",TRUE,"433,087,364",Spotify,"504,653,715",0.0119152,0.03757441,0.127885655
+Post Malone,Circles,Hollywood's Bleeding,album,Hip-Hop,"542,016,752","4,778,234",TRUE,"1,958,827,202",Spotify,"2,505,622,188",0.091736662,0.153899377,0.578418859
+Post Malone,rockstar (feat. 21 Savage),beerbongs & bentleys,album,Hip-Hop,"1,060,220,169","12,564,657",TRUE,"2,594,926,619",Spotify,"3,667,711,445",0.179442902,0.404687775,0.766251609
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,album,Hip-Hop,"1,977,389,041","13,749,813",TRUE,"2,538,329,799",Spotify,"4,529,468,653",0.334674286,0.442859779,0.749539227
+Post Malone,Congratulations,Stoney (Deluxe),album,Hip-Hop,"1,490,857,046","9,065,248",TRUE,"1,685,298,151",Spotify,"3,185,220,445",0.252328453,0.291977333,0.497648916
+Post Malone,Wow.,Hollywood's Bleeding,album,Hip-Hop,"299,045,602","2,796,960",FALSE,"1,385,120,327",Spotify,"1,686,962,889",0.050613648,0.090085668,0.409009901
+Post Malone,Better Now,beerbongs & bentleys,album,Hip-Hop,"557,333,012","4,303,699",TRUE,"1,694,007,587",Spotify,"2,255,644,298",0.094328948,0.138615353,0.500220711
+Post Malone,Goodbyes (feat. Young Thug),Hollywood's Bleeding,album,Hip-Hop,"304,776,254","4,245,512",TRUE,"1,072,285,928",Spotify,"1,381,307,694",0.051583564,0.136741242,0.316633546
+Post Malone,One Right Now (with The Weeknd),Twelve Carat Toothache,album,Hip-Hop,"90,331,648","1,280,736",TRUE,"455,397,352",Spotify,"547,009,736",0.015288686,0.041250486,0.134473534
+Post Malone,I Fall Apart,Stoney (Deluxe),album,Hip-Hop,"2,050,936","23,283",FALSE,"1,433,983,524",Spotify,"1,436,057,743",0.000347122,0.000749909,0.423438634
+Dua Lipa,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),single,Pop,"864,857,344","5,305,141",TRUE,"1,719,434,482",Spotify,"2,589,596,967",0.146377626,0.17087022,0.507728977
+Dua Lipa,Cold Heart - PNAU Remix,The Lockdown Sessions,album,Pop,"396,917,121","2,532,769",TRUE,"1,357,658,479",Spotify,"1,757,108,369",0.067178462,0.081576493,0.400900737
+Dua Lipa,Levitating (feat. DaBaby),Future Nostalgia,album,Pop,"681,471,624","6,810,695",TRUE,"1,633,339,226",Spotify,"2,321,621,545",0.115339483,0.219361739,0.482306051
+Dua Lipa,Prisoner (feat. Dua Lipa),Plastic Hearts,album,Pop,"101,543,180","1,781,588",TRUE,"618,662,340",Spotify,"721,987,108",0.017186244,0.057382138,0.182683784
+Dua Lipa,Levitating,Future Nostalgia,album,Pop,"681,471,624","6,810,695",TRUE,"683,787,618",Spotify,"1,372,069,937",0.115339483,0.219361739,0.20191452
+Dua Lipa,Don't Start Now,Future Nostalgia,album,Pop,"635,941,745","6,743,946",TRUE,"2,136,270,814",Spotify,"2,778,956,505",0.107633523,0.217211859,0.630815891
+Dua Lipa,New Rules,Dua Lipa (Deluxe),album,Pop,"2,809,699,009","16,730,579",TRUE,"1,807,370,674",Youtube,"4,633,800,262",0.475543249,0.538865549,0.533695511
+Dua Lipa,IDGAF,Dua Lipa (Deluxe),album,Pop,"803,009,425","5,651,944",TRUE,"1,364,542,951",Spotify,"2,173,204,320",0.135909829,0.182040197,0.402933641
+Dua Lipa,Scared to Be Lonely,Scared to Be Lonely,single,Pop,"704,522,514","4,963,727",FALSE,"1,096,655,941",Spotify,"1,806,142,182",0.11924086,0.159873814,0.323829727
+Dua Lipa,Break My Heart,Future Nostalgia,album,Pop,"536,905,721","5,296,593",TRUE,"990,353,749",Spotify,"1,532,556,063",0.090871617,0.170594902,0.292439928
+Billie Eilish,lovely (with Khalid),lovely (with Khalid),single,Alternative Pop,"1,721,400,523","24,426,202",TRUE,"2,110,573,779",Spotify,"3,856,400,504",0.291348075,0.786729422,0.623227856
+Billie Eilish,TV,Guitar Songs,single,Alternative Pop,"21,545,835","552,196",FALSE,"188,946,951",Spotify,"211,044,982",0.003646646,0.017785362,0.055793834
+Billie Eilish,Happier Than Ever,Happier Than Ever,album,Alternative Pop,"266,896,199","5,718,606",TRUE,"907,762,843",Spotify,"1,180,377,648",0.045172342,0.184187275,0.268051795
+Billie Eilish,everything i wanted,everything i wanted,single,Alternative Pop,"315,642,357","5,284,551",TRUE,"1,247,913,202",Spotify,"1,568,840,110",0.053422659,0.170207049,0.368494235
+Billie Eilish,Bored,Bored,single,Alternative Pop,"54,672,067","1,089,600",TRUE,"672,865,943",Spotify,"728,627,610",0.00925328,0.035094297,0.198689476
+Billie Eilish,when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,Alternative Pop,"845,341,855","13,116,364",TRUE,"1,478,156,307",Spotify,"2,336,614,526",0.143074618,0.422457387,0.436482342
+Billie Eilish,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,Alternative Pop,"1,224,659,786","17,920,724",TRUE,"2,203,014,126",Spotify,"3,445,594,636",0.207274406,0.577198241,0.650524414
+Billie Eilish,idontwannabeyouanymore,dont smile at me,single,Alternative Pop,"311,247,259","4,046,457",TRUE,"874,910,597",Spotify,"1,190,204,313",0.052678786,0.130329995,0.25835091
+Billie Eilish,Happier Than Ever - Edit,Happier Than Ever (Edit),single,Alternative Pop,"10,608,231","191,574",TRUE,"338,722,014",Spotify,"349,521,819",0.001795449,0.006170296,0.100020666
+Billie Eilish,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,Alternative Pop,"49,554,662","992,263",TRUE,"724,306,879",Spotify,"774,853,804",0.008387156,0.031959225,0.213879386
+Johnny Cash,Jackson,Carryin' On With Johnny Cash And June Carter,album,Pop,"11,075,667","82,353",TRUE,"90,040,515",Spotify,"101,198,535",0.001874563,0.00265246,0.026587915
+Sleeping At Last,Light,Atlas: I,album,Pop,"2,954,969","35,825",TRUE,"39,211,900",Spotify,"42,202,694",0.00050013,0.001153867,0.011578817
+RAF Camora,Blaues Licht,Zukunft 1 & 2,album,Pop,"34,503,364","306,925",TRUE,"130,979,623",Spotify,"165,789,912",0.005839715,0.00988557,0.038676757
+H.E.R.,"Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)","Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",single,Pop,"16,108,175","161,021",TRUE,"187,668,222",Spotify,"203,937,418",0.002726318,0.005186232,0.05541624
+H.E.R.,Could've Been (feat. Bryson Tiller),I Used To Know Her,album,Pop,"116,708,706","845,646",TRUE,"297,699,092",Spotify,"415,253,444",0.019753019,0.027236923,0.087907075
+Inspector,Osito Dormilón (feat. Tony Hernandez El Gran Silencio),Ska a La Carta,album,Pop,"22,289,068","72,955",TRUE,"17,452,232",Youtube,"39,814,255",0.003772438,0.002349765,0.005153441
+Guns N' Roses,Sweet Child O' Mine,Appetite For Destruction,album,Pop,"1,479,702,797","7,392,749",TRUE,"1,397,611,294",Youtube,"2,884,706,840",0.250440589,0.238108779,0.412698338
+Aleman,Tantas Veces,Eclipse,album,Pop,"257,879,588","1,342,952",FALSE,"91,779,317",Youtube,"351,001,857",0.043646276,0.043254365,0.027101363
+Brytiago,Desnudarte,Desnudarte,single,Pop,"123,059,969","698,529",FALSE,"95,593,811",Youtube,"219,352,309",0.020827974,0.022498517,0.028227739
+Guè,Need U 2Nite (feat. Massimo Pericolo),Madreperla,album,Pop,"637,597","10,409",TRUE,"4,614,242",Spotify,"5,262,248",0.000107914,0.000335257,0.001362532
+Disturbed,Decadence,Ten Thousand Fists,album,Pop,"4,613",70,FALSE,"49,338,455",Spotify,"49,343,138",7.80753E-07,2.25459E-06,0.014569071
+Ronnie Flex,Amazin' - Remix,Amazin’ (Remix),single,Pop,"276,085","1,509",TRUE,"7,056,669",Spotify,"7,334,263",4.67276E-05,4.86025E-05,0.002083752
+Men At Work,Be Good Johnny,Business As Usual,album,Pop,"1,779,142","20,016",TRUE,"12,305,120",Spotify,"14,104,278",0.000301121,0.000644684,0.003633559
+Nicki Nicole,Otra Noche,Cumbia Del Corazón,album,Pop,"185,040,745","989,639",TRUE,"132,727,078",Youtube,"318,757,462",0.031318258,0.031874711,0.03919276
+Lilly Goodman,Iglesia,La Compilación,album,Pop,"12,450,121","62,411",FALSE,"24,578,876",Spotify,"37,091,408",0.00210719,0.00201016,0.007257856
+Claude Debussy,"Clair de Lune, L. 32",Debussy: Clair De Lune and Other Piano Favourites,album,Pop,"88,157,607","886,141",FALSE,"93,461,661",Spotify,"182,505,409",0.014920728,0.028541203,0.02759814
+Roger,Superman,The Many Facets Of Roger,album,Pop,"50,776",533,FALSE,"290,760",Spotify,"342,069",8.59387E-06,1.71671E-05,8.5858E-05
+Al Green,Tired of Being Alone,Gets Next to You,album,Pop,"33,534,403","212,232",FALSE,"144,420,192",Spotify,"178,166,827",0.005675718,0.006835658,0.042645601
+The Cinematic Orchestra,That Home,Ma Fleur,album,Pop,"272,952","4,698",FALSE,"41,520,106",Spotify,"41,797,756",4.61973E-05,0.000151315,0.012260404
+Bread,It Don't Matter to Me,Bread,album,Pop,"350,785","4,259",FALSE,"13,453,197",Spotify,"13,808,241",5.93706E-05,0.000137176,0.003972572
+Philharmonia Orchestra,Andrea Chenier (1997 Digital Remaster): La mamma morta,Lyric and Coloratura Arias,album,Pop,"167,840","1,233",FALSE,"7,902,588",Spotify,"8,071,661",2.8407E-05,3.9713E-05,0.002333542
+Joe Cocker,We Are The World - Live,Spirito Italiano,compilation,Pop,"29,891,350","449,880",FALSE,"48,806,476",Spotify,"79,147,706",0.005059129,0.014489925,0.014411984
+Shinedown,State of My Head,Threat to Survival,album,Pop,"44,637,647","264,006",TRUE,"112,560,045",Spotify,"157,461,698",0.007554949,0.008503217,0.03323767
+Noah Kahan,Northern Attitude,Stick Season,album,Pop,"529,632","8,933",FALSE,"25,649,639",Spotify,"26,188,204",8.96405E-05,0.000287718,0.00757404
+"Hank Williams, Jr.",Weatherman,The Pressure Is On,album,Pop,"4,539,156","28,615",FALSE,"21,477,686",Spotify,"26,045,457",0.000768255,0.000921644,0.006342111
+Sting,What Could Have Been feat. Ray Chen (from the series Arcane League of Legends),Arcane League of Legends (Soundtrack from the Animated Series),album,Pop,"12,031,912","195,601",TRUE,"41,083,851",Spotify,"53,311,364",0.002036408,0.0063,0.012131583
+Cristian Castro,Yo Quería,"El Romántico, El Príncipe",album,Pop,"98,448,869","452,333",TRUE,"62,442,834",Youtube,"161,344,036",0.01666253,0.014568932,0.018438642
+Ne-Yo,So Sick,In My Own Words,album,Pop,"297,730,894","1,487,897",TRUE,"619,091,362",Spotify,"918,310,153",0.050391133,0.047922814,0.182810469
+Matchbox Twenty,If You're Gone,Mad Season,album,Pop,"85,406,227","381,120",TRUE,"98,332,841",Spotify,"184,120,188",0.014455055,0.012275274,0.029036543
+Kumar Sanu,"Aankh Marey (From ""Simmba"")","Aankh Marey (From ""Simmba"")",single,Pop,0,0,FALSE,"46,628,697",Spotify,"46,628,697",0,0,0.013768911
+Jarabe De Palo,La chica de Ipanema,En la vida conocí mujer igual a la Flaca: 20 años (Deluxe Edition),compilation,Pop,"4,276,923","22,160",FALSE,"27,193,569",Spotify,"31,492,652",0.000723872,0.000713739,0.008029944
+La Arrolladora Banda El Limón De Rene Camacho,El Final De Nuestra Historia,Íconos 25 Éxitos,album,Pop,"38,618,392","82,398",TRUE,"137,319,574",Spotify,"176,020,364",0.006536186,0.00265391,0.040548871
+Lomepal,Hasarder,Mauvais Ordre,album,Pop,"1,623,225","17,364",TRUE,"11,945,840",Spotify,"13,586,429",0.000274732,0.000559267,0.003527467
+RAYE,Ferrari Horses,The Blue Print – Us Vs. Them,album,Pop,"112,558","1,519",FALSE,"72,907,896",Spotify,"73,021,973",1.90505E-05,4.89246E-05,0.021528853
+Kenny G,Everytime I Close My Eyes (with Babyface),The Moment,album,Pop,"238,641","2,102",FALSE,"17,453,665",Spotify,"17,694,408",4.03901E-05,6.77021E-05,0.005153864
+Luchè,Ti Amo,Malammore,album,Pop,"3,913,428","32,531",FALSE,"28,784,827",Spotify,"32,730,786",0.00066235,0.001047772,0.008499824
+PnB Rock,Luv Me Again,Luv Me Again,single,Pop,"1,381,470","40,830",FALSE,"5,893,396",Spotify,"7,315,696",0.000233815,0.00131507,0.001740251
+Cascada,Evacuate The Dancefloor - Radio Edit,Evacuate The Dancefloor,album,Pop,"68,403,117","252,132",FALSE,0,Youtube,"68,655,249",0.011577269,0.008120774,0
+Maria Becerra,Qué Más Pues?,JOSE,album,Pop,"591,676,842","3,054,574",TRUE,"658,756,141",Spotify,"1,253,487,557",0.100141662,0.098383008,0.194523016
+C-Kan,El Pasado Está Olvidado,Cuando Todo Acaba,album,Pop,"69,887,872","612,025",TRUE,"39,207,328",Youtube,"109,707,225",0.011828564,0.019712359,0.011577467
+T.I.,Top Back,King,album,Pop,"622,546","3,262",FALSE,"30,026,078",Spotify,"30,651,886",0.000105366,0.000105064,0.008866351
+Zedd,Good Thing (with Kehlani),Good Thing (with Kehlani),single,Pop,"75,063,724","1,053,756",TRUE,"230,154,632",Spotify,"306,272,112",0.01270458,0.033939818,0.067961982
+sped up nightcore,Tap Tap (Lil Uzi Vert),Tap Tap (Lil Uzi Vert),single,Pop,"122,690","2,881",TRUE,"3,224,485",Spotify,"3,350,056",2.07654E-05,9.27925E-05,0.000952153
+Christian Nodal,Aquí Abajo,AYAYAY! (Deluxe),album,Pop,"279,912,656","1,426,190",TRUE,"297,585,871",Spotify,"578,924,717",0.047375386,0.045935329,0.087873642
+CRO,so schön,trip,album,Pop,"273,662","3,869",TRUE,"6,010,650",Spotify,"6,288,181",4.63175E-05,0.000124614,0.001774875
+Limp Bizkit,Nookie,Significant Other,album,Pop,"123,575,732","493,362",TRUE,"108,333,801",Youtube,"232,402,895",0.020915267,0.015890411,0.03198971
+Fatboy Slim,"Right Here, Right Now",You've Come A Long Way Baby,album,Pop,"47,058,107","358,820",FALSE,"93,625,596",Spotify,"141,042,523",0.007964613,0.011557026,0.027646548
+Kacey Musgraves,Golden Hour,Golden Hour,album,Pop,"4,124,639","38,744",TRUE,"106,395,109",Spotify,"110,558,492",0.000698098,0.001247883,0.031417237
+Solfeggio Healing Frequencies MT,528 Hz Release Inner Conflict & Struggle,528 Hz Transformation and Miracles (DNA Repair),single,Pop,"33,068,886","234,698",TRUE,"50,378,461",Spotify,"83,682,045",0.005596929,0.007559252,0.014876173
+Ricardo Arjona,Minutos,Santo Pecado,album,Pop,"5,993,047","34,145",FALSE,"79,062,712",Spotify,"85,089,904",0.001014327,0.001099757,0.023346298
+Macklemore,White Walls (feat. ScHoolboy Q & Hollis),The Heist,album,Pop,"90,090,646","560,627",TRUE,"229,025,606",Spotify,"319,676,879",0.015247896,0.018056911,0.067628594
+Shilpi Raj,Saiya Davatare,Saiya Davatare,single,Pop,"3,154,573","16,616",TRUE,"2,526,755",Youtube,"5,697,944",0.000533913,0.000535175,0.000746121
+My Chemical Romance,Helena,Three Cheers for Sweet Revenge,album,Pop,"177,784,104","1,458,581",TRUE,"305,131,207",Spotify,"484,373,892",0.030090067,0.046978592,0.090101692
+The Clash,I Fought the Law,The Cost of Living - EP,single,Pop,"25,611,328","177,295",TRUE,"93,642,837",Spotify,"119,431,460",0.004334733,0.005710392,0.027651639
+White Noise Baby Sleep,Air Conditioner - Loopable with no fade,Best White Noise for Baby Sleep - Loopable with No Fade,album,Pop,407,1,TRUE,"26,677,287",Spotify,"26,677,695",6.8885E-08,3.22084E-08,0.007877492
+Böhse Onkelz,Wir ham' noch lange nicht genug,Wir Ham' Noch Lange Nicht Genug,album,Pop,"2,943,299","11,354",TRUE,"26,767,079",Spotify,"29,721,732",0.000498155,0.000365694,0.007904007
+Leona Lewis,Better in Time,Spirit,album,Pop,"232,722,596","826,355",TRUE,"238,973,825",Spotify,"472,522,776",0.039388439,0.026615591,0.070566187
+Mi Banda El Mexicano,Bailando De Caballito,Mi Mexico Querido,album,Pop,"919,024","5,395",FALSE,"12,157,412",Spotify,"13,081,831",0.000155545,0.000173764,0.003589942
+Rain Fruits Sounds,"Rain and Thunderstorm, Pt. 5",Rain and Thunderstorm,album,Pop,"433,396","4,923",TRUE,"16,522,963",Spotify,"16,961,282",7.33525E-05,0.000158562,0.004879039
+Perry Como,Papa Loves Mambo,Pure Gold,album,Pop,"5,885,200","64,079",FALSE,"36,412,844",Spotify,"42,362,123",0.000996074,0.002063883,0.010752289
+Jul,La Bellavita (feat. Jul),Salvatore Vive,album,Pop,"12,556,242","84,075",FALSE,"21,844,490",Spotify,"34,484,807",0.002125152,0.002707923,0.006450423
+Xzibit,My Name (feat. Eminem & Nate Dogg),Man VS Machine,album,Pop,"20,500,590","157,037",FALSE,"62,003,558",Spotify,"82,661,185",0.003469737,0.005057914,0.018308929
+Die Kita-Frösche,"Guten Abend, gut' Nacht",Die 30 besten Schlaflieder für Kinder,album,Pop,"2,026,852","8,493",TRUE,"17,032,776",Spotify,"19,068,121",0.000343046,0.000273546,0.00502958
+Ahmet Kaya,Yorgun Demokrat,Yorgun Demokrat,album,Pop,"3,989,265","38,771",FALSE,"21,675,945",Spotify,"25,703,981",0.000675186,0.001248753,0.006400654
+Bread,Baby I'm-a Want You,Baby I'm-a Want You,album,Pop,"57,769","1,182",FALSE,"54,333,758",Spotify,"54,392,709",9.77744E-06,3.80704E-05,0.016044126
+Steve Miller Band,Fly Like An Eagle,Fly Like An Eagle,album,Pop,"19,324",432,FALSE,"130,683,787",Spotify,"130,703,543",3.2706E-06,1.3914E-05,0.0385894
+Rvssian,Sex & Love,Portales,album,Pop,"9,690,932","205,702",TRUE,"28,103,609",Spotify,"38,000,243",0.001640196,0.006625337,0.008298668
+Nelly Furtado,All Good Things (Come To An End),Loose,album,Pop,"85,062,480","464,373",TRUE,"87,088,538",Spotify,"172,615,391",0.014396876,0.014956722,0.025716231
+Kato,Pokémon Theme Lofi,Sleep Anime Lofi Beats,album,Pop,"27,831",754,FALSE,"7,758,635",Spotify,"7,787,220",4.71041E-06,2.42852E-05,0.002291035
+Orochi,Vida Cara,Vida Cara,album,Pop,"2,967,259","96,504",TRUE,"2,679,684",Youtube,"5,743,447",0.00050221,0.003108242,0.000791279
+Maluma,11:00 PM,11:11,album,Pop,"870,721,913","3,131,642",TRUE,"614,002,773",Youtube,"1,487,856,328",0.147370208,0.100865247,0.181307868
+Ben E. King,Stand by Me,Don't Play That Song,album,Pop,"16,123,913","136,857",FALSE,"174,033,542",Spotify,"190,294,312",0.002728982,0.004407948,0.051390078
+The Who,My Generation - Stereo Version,My Generation (Stereo Version),album,Pop,"258,935","5,019",TRUE,"208,986,875",Spotify,"209,250,829",4.38249E-05,0.000161654,0.06171139
+Río Roma,Resistiré,Resistiré,single,Pop,"15,922,785","260,404",TRUE,"48,533,462",Spotify,"64,716,651",0.002694941,0.008387202,0.014331366
+Mötley Crüe,Home Sweet Home,Theatre of Pain (2021 - Remaster),album,Pop,"35,062,455","268,415",TRUE,"181,109,214",Spotify,"216,440,084",0.005934342,0.008645224,0.053479442
+BONES,Timberlake,OFFLINE,album,Pop,"5,763,777","89,368",FALSE,"35,165,905",Spotify,"41,019,050",0.000975523,0.002878402,0.010384082
+Christian Rode,Kapitel 1.2 - Sindbad der Seefahrer,Sindbad der Seefahrer,album,Pop,103,1,TRUE,0,Youtube,104,1.74328E-08,3.22084E-08,0
+Jeremy Zucker,I'm So Happy (with BENEE),I'm So Happy,single,Pop,"1,425,969","48,411",TRUE,"10,896,774",Spotify,"12,371,154",0.000241346,0.001559242,0.00321769
+Kavita Seth,Iktara,Wake Up Sid (Original Motion Picture Soundtrack),single,Pop,"55,882,322","472,950",TRUE,"68,980,616",Spotify,"125,335,888",0.009458117,0.015232973,0.020369173
+Crowded House,Better Be Home Soon,Temple Of Low Men,album,Pop,"6,576,420","38,547",TRUE,"69,216,589",Spotify,"75,831,556",0.001113063,0.001241538,0.020438853
+Gloria Gaynor,I Will Survive,Big Hits,album,Pop,"19,480,336","290,573",TRUE,"12,730,862",Youtube,"32,501,771",0.003297059,0.009358898,0.003759275
+Lost Frequencies,Love To Go,Love To Go,single,Pop,"16,353,731","137,006",FALSE,0,Youtube,"16,490,737",0.002767879,0.004412747,0
+Prince Royce,Carita de Inocente (feat. Myke Towers) - Remix,Carita de Inocente (feat. Myke Towers) [Remix],single,Pop,"54,502,647","627,701",TRUE,"174,794,368",Spotify,"229,924,716",0.009224606,0.020217259,0.051614741
+d4vd,Take Me To The Sun,Take Me To The Sun,single,Pop,"378,925","10,822",FALSE,"6,523,152",Spotify,"6,912,899",6.41333E-05,0.00034856,0.001926211
+Jessie Reyez,Gimme (feat. Koffee & Jessie Reyez),Gloria,album,Pop,"2,601,231","63,117",TRUE,"13,385,723",Spotify,"16,050,071",0.00044026,0.002032899,0.003952648
+Money Man,Similar,Blackout,album,Pop,"2,852,985","68,193",TRUE,"9,004,215",Spotify,"11,925,393",0.000482869,0.002196389,0.00265884
+Wale,Love... (Her Fault) [feat. Bryson Tiller],Wow... That's Crazy,album,Pop,"24,740,126","247,509",TRUE,"53,388,711",Spotify,"78,376,346",0.004187281,0.007971874,0.015765065
+Zé Neto & Cristiano,Alimentando Vontade,Tarja Preta,album,Pop,0,0,FALSE,"15,650,867",Spotify,"15,650,867",0,0,0.004621519
+Die Ärzte,Junge,Jazz ist anders,album,Pop,"683,061","11,434",FALSE,"41,448,996",Spotify,"42,143,491",0.000115608,0.000368271,0.012239406
+Electric Light Orchestra,Evil Woman,Face the Music,album,Pop,"554,394","8,726",FALSE,"60,610,032",Spotify,"61,173,152",9.38315E-05,0.000281051,0.017897437
+Neha Kakkar,"Gali Gali (From ""Kgf Chapter 1"")","Gali Gali (From ""Kgf Chapter 1"")",single,Pop,"472,320,564","2,201,834",TRUE,"37,324,477",Youtube,"511,846,875",0.07994054,0.070917599,0.011021483
+Four Tops,When She Was My Girl,Tonight,album,Pop,"13,043,317","46,548",FALSE,"7,298,599",Youtube,"20,388,464",0.002207589,0.001499238,0.002155191
+Vacations,Young,Vibes,single,Pop,"4,116,864","136,008",FALSE,"350,308,790",Spotify,"354,561,662",0.000696782,0.004380603,0.103442106
+NIKI,lowkey,lowkey,single,Pop,"42,202,198","706,699",TRUE,"281,639,088",Spotify,"324,547,985",0.007142747,0.02276166,0.083164743
+Vintage Culture,I Will Find,I Will Find,single,Pop,"37,829,914","327,196",FALSE,"109,470,240",Spotify,"147,627,350",0.006402736,0.010538467,0.032325287
+Jason Aldean,She's Country,Wide Open,album,Pop,"20,471,365","105,744",TRUE,"156,127,963",Spotify,"176,705,072",0.003464791,0.003405847,0.046102769
+Los Caminantes,Cuando Dos Almas,"15 Exitos, Vol. I",album,Pop,"5,208,749","30,959",TRUE,"15,464,245",Spotify,"20,703,953",0.000881584,0.000997141,0.004566411
+Too $hort,The Ghetto,Short Dog's In The House,album,Pop,"33,688,920","314,303",TRUE,"27,122,600",Youtube,"61,125,823",0.00570187,0.010123204,0.008008988
+Carly Simon,You Belong to Me,Boys in the Trees,album,Pop,"8,943,142","64,227",FALSE,"8,790,754",Youtube,"17,798,123",0.001513632,0.00206865,0.002595807
+Tiziano Ferro,La Vita Splendida,Il Mondo È Nostro,album,Pop,"4,520,677","50,015",TRUE,"4,310,275",Youtube,"8,880,967",0.000765127,0.001610904,0.001272774
+Elliott Smith,Angeles,Either/Or,album,Pop,"352,641","4,026",FALSE,"56,578,476",Spotify,"56,935,143",5.96847E-05,0.000129671,0.016706965
+Roy Orbison,Only the Lonely,Sings Lonely and Blue,album,Pop,"8,364,845","67,461",TRUE,"68,082,395",Spotify,"76,514,701",0.001415755,0.002172812,0.020103938
+Dalex,Pa Mí - Remix,Climaxxx,album,Pop,"632,443,724","3,354,623",TRUE,"630,547,786",Youtube,"1,266,346,133",0.107041481,0.108047113,0.186193418
+Young Dolph,Blind Fold,Paper Route Frank,album,Pop,"50,161","1,471",FALSE,"2,484,801",Spotify,"2,536,433",8.48978E-06,4.73786E-05,0.000733733
+Dolly Parton,Jolene,Jolene (Expanded Edition),album,Pop,"395,292","3,224",FALSE,"466,519,830",Spotify,"466,918,346",6.69034E-05,0.00010384,0.137757872
+Carrie Underwood,Before He Cheats,Some Hearts,album,Pop,"157,875,227","914,132",TRUE,"400,928,668",Spotify,"559,718,027",0.026720477,0.029442749,0.118389566
+Bradley Cooper,I Don't Know What Love Is,A Star Is Born Soundtrack,album,Pop,"5,021,675","26,815",FALSE,"94,730,022",Spotify,"99,778,512",0.000849922,0.000863669,0.027972672
+Yiruma,River Flows in You,The Best - Reminiscent 10th Anniversary,album,Pop,"172,144,820","2,944,721",TRUE,"91,288,142",Youtube,"266,377,683",0.029135614,0.094844817,0.026956325
+Ferrugem,Pirata e tesouro - Ao vivo,"Prazer, eu sou Ferrugem (Ao vivo)",album,Pop,"233,528,463","1,164,711",TRUE,"96,492,817",Youtube,"331,185,991",0.039524833,0.037513503,0.028493205
+Ryan Castro,Avemaría,Avemaría,single,Pop,"10,838,443","96,423",FALSE,"9,327,917",Youtube,"20,262,783",0.001834413,0.003105633,0.002754425
+Jon Z,Ella Te Las Va A Pegar (feat. Ele a el Dominio & Noriel),Voodoo,album,Pop,"19,070,398","198,716",TRUE,"19,838,033",Spotify,"39,107,147",0.003227676,0.006400329,0.00585794
+Good Charlotte,Girls & Boys,The Young and The Hopeless,album,Pop,"19,627,003","98,209",TRUE,"75,423,811",Spotify,"95,149,023",0.003321882,0.003163157,0.022271773
+Oruam,INVEJOSO,INVEJOSO,single,Pop,"135,594,825","1,485,577",TRUE,"42,933,207",Youtube,"180,013,609",0.022949506,0.047848091,0.012677676
+Sublime,40oz. To Freedom,40oz. To Freedom,album,Pop,"4,460",179,FALSE,"55,681,213",Spotify,"55,685,852",7.54858E-07,5.76531E-06,0.016442014
+ATEEZ,Fireworks (I'm The One),ZERO : FEVER Part.2,album,Pop,"55,931,771","1,491,824",FALSE,"54,154,257",Youtube,"111,577,852",0.009466486,0.048049297,0.015991121
+Javed Ali,Kun Faya Kun,Rockstar,album,Pop,"333,830,586","2,719,004",TRUE,"73,834,235",Youtube,"410,383,825",0.056501028,0.087574828,0.02180239
+Takeoff,Casper,The Last Rocket,album,Pop,"39,996,316","570,190",TRUE,"173,427,832",Spotify,"213,994,338",0.006769401,0.01836492,0.051211219
+Sabaton,The Attack of the Dead Men,The Great War,album,Pop,"3,213,144","66,309",TRUE,"46,040,519",Spotify,"49,319,972",0.000543827,0.002135708,0.013595229
+Zac Efron,Scream,High School Musical 3: Senior Year,album,Pop,"1,300,811","8,756",FALSE,"51,172,714",Spotify,"52,482,281",0.000220163,0.000282017,0.015110706
+Laxmikant–Pyarelal,"Aatuthottil (From ""Poonilamazha"")",Poonilamazha,compilation,Pop,"9,804,645","31,054",TRUE,"550,587",Youtube,"10,386,286",0.001659442,0.0010002,0.000162582
+One Direction,Story of My Life,Midnight Memories (Deluxe),album,Pop,"976,289,967","7,976,348",TRUE,"940,793,629",Youtube,"1,925,059,944",0.165237665,0.256905582,0.277805402
+Gwen Stefani,Rich Girl,Love Angel Music Baby (Deluxe Version),album,Pop,"158,553,611","1,216,221",TRUE,"214,398,925",Spotify,"374,168,757",0.026835294,0.039172559,0.063309506
+Pailita,Llamame Bebe,Llamame Bebe,single,Pop,"14,511,677","215,081",TRUE,"20,161,636",Spotify,"34,888,394",0.00245611,0.00692742,0.005953496
+Smino,Pudgy (with Lil Uzi Vert),Luv 4 Rent,album,Pop,"230,679","7,112",FALSE,"3,729,315",Spotify,"3,967,106",3.90426E-05,0.000229066,0.001101223
+The Walters,Sweet Marie,Young Men,album,Pop,"532,574","10,901",TRUE,"19,637,984",Spotify,"20,181,459",9.01385E-05,0.000351104,0.005798868
+YG,"That's My N**** (with Meek Mill, YG & Snoop Dogg)","That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",single,Pop,"14,272,846","175,218",FALSE,"248,359,900",Spotify,"262,807,964",0.002415688,0.005643495,0.073337786
+Cultura Profética,Te Creí,La Carta,album,Pop,"31,132,073","267,847",TRUE,"19,091,891",Youtube,"50,491,811",0.005269122,0.008626929,0.005637613
+Los Cafres,Si el Amor Se Cae - Versión 25 Años [Live],25 Años de Música,album,Pop,"43,165,402","75,603",TRUE,"46,575,958",Spotify,"89,816,963",0.00730577,0.002435053,0.013753338
+Mr.Kitty,Empty Phases,Ephemeral,album,Pop,"717,091",0,FALSE,"4,647,978",Spotify,"5,365,069",0.000121368,0,0.001372494
+The Wombats,Turn,Beautiful People Will Ruin Your Life,album,Pop,"4,200,859","33,623",FALSE,"100,394,616",Spotify,"104,629,098",0.000710998,0.001082944,0.029645361
+Ying Yang Twins,Shake,U.S.A. (United State of Atlanta),album,Pop,"22,162,858","85,634",TRUE,"40,036,878",Spotify,"62,285,370",0.003751077,0.002758136,0.011822424
+Julia Michaels,Sorry To Me Too,Sorry To Me Too,single,Pop,"306,214","11,022",TRUE,"12,646,131",Spotify,"12,963,367",5.18269E-05,0.000355001,0.003734255
+Los Invasores De Nuevo León,Total Ya Se Fue,De Vida O Muerte,album,Pop,"11,256,541","36,858",TRUE,"27,576,459",Spotify,"38,869,858",0.001905176,0.001187138,0.008143007
+Dropkick Murphys,I'm Shipping Up To Boston,The Warrior's Code,album,Pop,"121,925,310","718,044",FALSE,"244,246,126",Spotify,"366,889,480",0.020635932,0.023127064,0.072123036
+Simple Plan,Perfect,"No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",album,Pop,"195,043,597","1,199,250",TRUE,"174,115,231",Youtube,"370,358,078",0.033011246,0.03862595,0.0514142
+La Oreja de Van Gogh,Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila,Primera Fila,album,Pop,"276,832,684","632,294",TRUE,"77,114,883",Youtube,"354,579,861",0.046854098,0.020365192,0.022771127
+Project Pat,Life We Live (feat. Namond Lumpkin & Edgar Fletcher),Mista Don't Play: Everythangs Workin,album,Pop,"40,759","1,057",FALSE,"9,744,687",Spotify,"9,786,503",6.89849E-06,3.40443E-05,0.002877493
+Aleks Syntek,Intocable,Leccion De Vuelo,album,Pop,"39,001,874","162,636",TRUE,"44,389,133",Spotify,"83,553,643",0.006601091,0.005238249,0.013107594
+BIGBANG,IF YOU,MADE,album,Pop,"25,302,889","184,597",FALSE,"76,022,029",Spotify,"101,509,515",0.004282529,0.005945578,0.02244842
+Mac Miller,Congratulations (feat. Bilal),The Divine Feminine,album,Pop,"8,395,581","116,808",TRUE,"112,529,647",Spotify,"121,042,036",0.001420957,0.003762201,0.033228694
+Pyotr Ilyich Tchaikovsky,"Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato",Tchaikovsky: Swan Lake,album,Pop,"570,881","14,054",FALSE,"75,073,139",Spotify,"75,658,074",9.6622E-05,0.000452657,0.022168224
+Mc Paiva ZS,VAI POR MIM,VAI POR MIM,single,Pop,"9,221,436","129,680",FALSE,"12,458,096",Spotify,"21,809,212",0.001560734,0.004176788,0.003678731
+Jairo Vera,Kilo De Amigas,Kilo De Amigas,single,Pop,"2,095,069","26,189",FALSE,"1,306,939",Youtube,"3,428,197",0.000354592,0.000843506,0.000385924
+Don Toliver,No Idea,Heaven Or Hell,album,Pop,"284,033,349","3,473,758",TRUE,"682,479,132",Spotify,"969,986,239",0.048072815,0.111884264,0.201528139
+Bronco,Que Te Han Visto Llorar,Indomable,album,Pop,"43,155,236","79,118",FALSE,"24,150,655",Youtube,"67,385,009",0.00730405,0.002548266,0.007131407
+Green Day,Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,compilation,Pop,"694,614,010","5,750,425",TRUE,"551,065,028",Youtube,"1,251,429,463",0.117563839,0.185212115,0.162723085
+Night Lovell,Still Cold / Pathway Private,Red Teenage Melody,album,Pop,"44,641,485","501,121",TRUE,"119,909,232",Spotify,"165,051,838",0.007555598,0.016140317,0.0354078
+Cardenales De Nuevo León,No Te Extraño,Se Renta Un Corazón (Reissue),album,Pop,"54,153,214","129,523",TRUE,"21,388,831",Youtube,"75,671,568",0.009165464,0.004171731,0.006315873
+Jairo Vera,Parcerita,Parcerita,single,Pop,"6,771,485","40,866",FALSE,"4,607,119",Youtube,"11,419,470",0.001146078,0.001316229,0.001360429
+The Animals,Bring It On Home To Me,Animal Tracks,album,Pop,"6,006,714","31,183",FALSE,0,Youtube,"6,037,897",0.00101664,0.001004355,0
+Philharmonia Orchestra,Let You Break My Heart Again,Let You Break My Heart Again,single,Pop,"4,747,943","158,920",FALSE,"32,996,978",Spotify,"37,903,841",0.000803592,0.005118562,0.009743623
+Rex Orange County,Happiness,Apricot Princess,album,Pop,"130,455","3,899",FALSE,"169,813,706",Spotify,"169,948,060",2.20796E-05,0.000125581,0.05014401
+Lindsey Stirling,Carol Of The Bells,Warmer In The Winter (Deluxe Edition),album,Pop,"99,757,563","2,291,850",TRUE,"57,662,009",Youtube,"159,711,422",0.016884028,0.073816872,0.01702692
+The Pointer Sisters,Santa Claus Is Coming To Town,A Very Special Christmas,compilation,Pop,"80,755",599,FALSE,"2,916,913",Spotify,"2,998,267",1.36678E-05,1.92928E-05,0.00086133
+Bob Seger,Night Moves,Night Moves,album,Pop,"7,194,461","82,159",TRUE,"178,485,755",Spotify,"185,762,375",0.001217667,0.002646212,0.052704765
+Jadakiss,New York (feat. A Boogie Wit Da Hoodie & Jadakiss),Rebel vs. Rowdy,album,Pop,"5,398,591","77,888",TRUE,"4,421,606",Youtube,"9,898,085",0.000913715,0.00250865,0.001305649
+Cardi B,South of the Border (feat. Camila Cabello & Cardi B),No.6 Collaborations Project,album,Pop,"238,926,116","2,224,915",TRUE,"670,643,659",Spotify,"911,794,690",0.040438389,0.071661001,0.198033262
+Jimmy Buffett,A Pirate Looks At Forty,A-1-A,album,Pop,"873,873","5,822",FALSE,"26,194,215",Spotify,"27,073,910",0.000147904,0.000187517,0.007734847
+Tom Petty and the Heartbreakers,Refugee,Damn The Torpedoes (Deluxe Edition),album,Pop,"17,640,066","119,540",TRUE,"82,408,171",Spotify,"100,167,777",0.002985592,0.003850195,0.024334173
+Julieta Venegas,Lento,Si,album,Pop,"70,980,591","416,355",TRUE,"139,670,204",Spotify,"211,067,150",0.012013508,0.013410138,0.041242985
+Capo,Lambo Diablo GT (feat. Nimo),Alles auf Rot,album,Pop,"24,219,652","124,280",TRUE,"74,836,616",Spotify,"99,180,548",0.004099191,0.004002863,0.022098381
+John Williams,Carol of the Bells,Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition],album,Pop,"1,076,136","12,507",FALSE,"211,405,932",Spotify,"212,494,575",0.000182137,0.000402831,0.06242571
+Zach Bryan,"Burn, Burn, Burn","Burn, Burn, Burn",single,Pop,"5,118,224","41,121",TRUE,"42,896,100",Spotify,"48,055,445",0.000866262,0.001324443,0.012666719
+Roddy Ricch,High Fashion (feat. Mustard),Please Excuse Me for Being Antisocial,album,Pop,"624,550","10,529",FALSE,"479,830,837",Spotify,"480,465,916",0.000105705,0.000339122,0.141688458
+Disturbed,Land of Confusion,Ten Thousand Fists,album,Pop,"73,094,036","446,639",TRUE,"101,214,737",Spotify,"174,755,412",0.01237121,0.014385537,0.029887533
+Udo Lindenberg,Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version,UDOPIUM - Das Beste (Special Edition),album,Pop,"40,357",744,TRUE,"23,430,064",Spotify,"23,471,165",6.83045E-06,2.39631E-05,0.006918625
+L7NNON,Corte Americano,Imaterial (Deluxe),album,Pop,"91,989,221","878,337",TRUE,"108,986,343",Spotify,"201,853,901",0.015569231,0.028289849,0.032182398
+Chris Tomlin,Who You Are To Me (feat. Lady A),Chris Tomlin & Friends,album,Pop,"6,899,697","78,766",TRUE,"26,404,304",Spotify,"33,382,767",0.001167778,0.002536929,0.007796883
+Leo Santana,Contatinho - Ao Vivo,Contatinho (Ao Vivo),single,Pop,"278,970,821","1,838,155",TRUE,"120,214,676",Youtube,"401,023,652",0.047215979,0.059204072,0.035497994
+Turma do Pagode,Golaço (Ao Vivo),Turma no Quintal (Ao Vivo),album,Pop,"15,496",732,TRUE,"27,123,155",Spotify,"27,139,383",2.62271E-06,2.35766E-05,0.008009152
+Intocable,Más Muerto Que Vivo,Más Muerto Que Vivo,single,Pop,"8,211,534","75,201",TRUE,"15,062,982",Spotify,"23,349,717",0.001389807,0.002422106,0.004447923
+Bootsy Collins,After Last Night (with Thundercat & Bootsy Collins),An Evening With Silk Sonic,album,Pop,"21,483,035","253,786",TRUE,"94,044,201",Spotify,"115,781,022",0.003636017,0.008174047,0.027770157
+Bizarrap,"Paulo Londra: Bzrp Music Sessions, Vol. 23","Paulo Londra: Bzrp Music Sessions, Vol. 23",single,Pop,"124,215,275","4,547,308",FALSE,"143,686,704",Spotify,"272,449,287",0.02102351,0.146461615,0.04242901
+Djavan,Eu Te Devoro - Ao Vivo,Ária - Ao Vivo,album,Pop,"890,456","9,786",TRUE,"58,218,230",Spotify,"59,118,472",0.00015071,0.000315192,0.017191165
+Gusttavo Lima,Nota de Repúdio - Ao Vivo,Buteco in Boston (Ao Vivo),album,Pop,"125,158,500","730,405",FALSE,"150,343,636",Spotify,"276,232,541",0.021183151,0.023525192,0.044394725
+Pesado,Loco,Todo tuyo,album,Pop,"54,788",330,FALSE,"75,616,900",Spotify,"75,672,018",9.2729E-06,1.06288E-05,0.02232879
+Sagopa Kajmer,Elbet,Ka??t Kesikleri,album,Pop,"13,274,722","125,441",TRUE,"5,570,031",Youtube,"18,970,194",0.002246755,0.004040257,0.001644765
+Kate Bush,The Man with the Child in His Eyes,The Kick Inside,album,Pop,"6,409,600","42,576",TRUE,"23,652,657",Spotify,"30,104,833",0.001084829,0.001371306,0.006984354
+Karan Aujla,Wytb,Wytb,single,Pop,"27,300,349","488,598",TRUE,"10,980,058",Youtube,"38,769,005",0.004620601,0.015736971,0.003242283
+Poison,Talk Dirty To Me,Look What The Cat Dragged In - 20th Anniversary Edition,album,Pop,"42,972,317","232,907",TRUE,"97,094,365",Spotify,"140,299,589",0.007273091,0.007501567,0.028670835
+Starship,Sara,Starship,album,Pop,"71,202,092","351,076",TRUE,0,Youtube,"71,553,168",0.012050997,0.011307604,0
+Russ,"Psycho, Pt. 2","Psycho, Pt. 2",single,Pop,"113,253,500","1,875,162",TRUE,"415,059,824",Spotify,"530,188,486",0.019168223,0.060396009,0.122562332
+Kevin Kaarl,Vámonos a Marte,Hasta el Fin Del Mundo,album,Pop,"13,377",410,FALSE,"258,651,134",Spotify,"258,664,921",2.26407E-06,1.32055E-05,0.076376667
+Limp Bizkit,Behind Blue Eyes,Results May Vary,album,Pop,"497,909","7,358",FALSE,"314,464,772",Spotify,"314,970,039",8.42714E-05,0.00023699,0.092857785
+Lasso,Plástico,Plástico,single,Pop,"485,147","27,595",TRUE,"1,822,182",Spotify,"2,334,924",8.21114E-05,0.000888791,0.000538069
+SDP,Ich will mein Problem zurück,Ein Gutes Schlechtes Vorbild,album,Pop,"2,019,269","30,905",FALSE,"3,232,087",Spotify,"5,282,261",0.000341762,0.000995401,0.000954398
+Río Roma,Mi Persona Favorita,Otra Vida,album,Pop,"99,907,167","605,882",TRUE,"170,562,592",Spotify,"271,075,641",0.016909348,0.019514503,0.050365147
+White Noise Baby Sleep,Constant Broad Spectrum Noise Loop to Drown Out Sounds & Loud City Noises,White Noise for Sleeping Babies,album,Pop,"54,291",57,TRUE,"16,937,653",Spotify,"16,992,001",9.18878E-06,1.83588E-06,0.005001492
+PXNDX,Cita en el Quirófano,Para Ti Con Desprecio,album,Pop,"53,425",684,FALSE,"38,540,625",Spotify,"38,594,734",9.04221E-06,2.20306E-05,0.011380598
+Celia Cruz,Toro Mata,Celia & Johnny,album,Pop,"1,458,339","8,912",FALSE,"7,015,237",Spotify,"8,482,488",0.000246825,0.000287041,0.002071518
+Little Big Town,Pontoon,Tornado,album,Pop,"91,852,241","359,023",TRUE,"101,484,940",Spotify,"193,696,204",0.015546047,0.011563564,0.029967321
+Antonio Vivaldi,"The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",Vivaldi: The Four Seasons,album,Pop,"8,398,449","137,622",FALSE,"24,322,236",Spotify,"32,858,307",0.001421443,0.004432587,0.007182073
+Zack Tabudlo,Pero,Pero,single,Pop,"849,520","21,079",TRUE,"5,247,684",Spotify,"6,118,283",0.000143782,0.000678921,0.00154958
+Novo Amor,Keep Me,"Cannot Be, Whatsoever",album,Pop,"974,504","18,945",TRUE,"27,395,018",Spotify,"28,388,467",0.000164935,0.000610189,0.00808943
+Grupo Firme,El Güero (Feat. Marca MP),El Güero (Feat. Marca MP),single,Pop,"129,510,780","935,409",TRUE,"229,788,191",Spotify,"360,234,380",0.021919777,0.030128048,0.067853777
+Lauv,i'm so tired...,~how i'm feeling~,album,Pop,"19,749,887","425,337",TRUE,"790,751,685",Spotify,"810,926,909",0.00334268,0.013699434,0.233499763
+Angus & Julia Stone,Youngblood,Youngblood,single,Pop,0,0,FALSE,"36,319,302",Spotify,"36,319,302",0,0,0.010724667
+Kygo,Woke Up in Love,Thrill Of The Chase,album,Pop,"4,089,798","83,177",TRUE,"46,301,533",Spotify,"50,474,508",0.000692201,0.002679,0.013672303
+The Kiboomers,Rock a Bye Baby,Baby Sleep Music,album,Pop,"50,031,019","25,268",TRUE,"21,455,374",Youtube,"71,511,661",0.00846778,0.000813842,0.006335522
+Tracy Chapman,Fast Car,Tracy Chapman,album,Pop,"59,983,733","530,168",TRUE,"641,327,301",Spotify,"701,841,202",0.010152283,0.017075875,0.189376483
+Insane Clown Posse,In My Room,Hell's Pit,album,Pop,"17,413,331","267,249",TRUE,"45,638,615",Spotify,"63,319,195",0.002947217,0.008607669,0.013476551
+Topic,Chain My Heart,Chain My Heart,single,Pop,"7,983,880","124,389",TRUE,"94,285,738",Spotify,"102,394,007",0.001351276,0.004006373,0.02784148
+The Cure,In Between Days - 2006 Remaster,The Head on the Door (Deluxed Edition),album,Pop,"39,952,599","228,863",TRUE,0,Youtube,"40,181,462",0.006762001,0.007371316,0
+Avicii,Lonely Together (feat. Rita Ora),AV?CI (01),single,Pop,"182,376,320","1,254,217",TRUE,"619,821,708",Spotify,"803,452,245",0.030867302,0.04039635,0.183026132
+BONES,HDMI,Rotten,album,Pop,"51,095,989","704,139",FALSE,"194,093,902",Spotify,"245,894,030",0.008648027,0.022679206,0.057313669
+fun.,Sight of the Sun - Single Version,Sight of the Sun,single,Pop,"1,666,789","15,180",TRUE,"27,697,921",Spotify,"29,379,890",0.000282105,0.000488924,0.008178873
+Kylie Minogue,Santa Baby,Kylie Christmas,album,Pop,"783,076","4,130",FALSE,"200,915,629",Spotify,"201,702,835",0.000132536,0.000133021,0.059328045
+Salim–Sulaiman,Ishq Hua,Aaja Nachle,album,Pop,"48,051,961","284,869",TRUE,"10,123,718",Youtube,"58,460,548",0.008132823,0.009175181,0.002989416
+ILLENIUM,Anti-Hero - ILLENIUM Remix,Anti-Hero (ILLENIUM Remix),single,Pop,"1,245,145","46,200",FALSE,"5,412,716",Spotify,"6,704,061",0.000210742,0.001488029,0.001598312
+Dove Cameron,Ways to Be Wicked,Descendants 2 (Original TV Movie Soundtrack),compilation,Pop,"326,260,482","2,182,921",TRUE,"75,156,127",Youtube,"403,599,530",0.055219783,0.070308441,0.022192729
+Benny Dayal,"Ole Melody - From ""Thallumaala""",Thallumaala,album,Pop,"17,100,600","261,124",TRUE,"12,195,481",Youtube,"29,557,205",0.002894287,0.008410392,0.003601184
+Ajay-Atul,Chikni Chameli,Agneepath (Original Motion Picture Soundtrack),album,Pop,"309,781,761","1,712,860",TRUE,"26,872,207",Youtube,"338,366,828",0.05243075,0.055168518,0.00793505
+The Cramps,Bikini Girls with Machine Guns,Stay Sick!,album,Pop,"2,086,338","11,583",FALSE,"3,659,613",Spotify,"5,757,534",0.000353114,0.00037307,0.001080641
+Bizarrap,Bottas,Sr. Santos,album,Pop,"7,088,475","239,478",TRUE,"14,679,203",Spotify,"22,007,156",0.001199729,0.007713208,0.004334598
+The Kiboomers,The Floor is Lava Song for Kids,The Floor is Lava Song for Kids,single,Pop,"181,162,207","241,927",TRUE,"9,966,101",Youtube,"191,370,235",0.030661813,0.007792087,0.002942874
+Lil Tecca,Come Through (feat. Lil Tecca),Come Through (feat. Lil Tecca),single,Pop,"2,885,437","50,001",TRUE,"55,682,513",Spotify,"58,617,951",0.000488362,0.001610453,0.016442398
+KISS,I Was Made For Lovin' You - Single Mix,KISS 40,compilation,Pop,"500,079,650","4,164,366",TRUE,"12,706,942",Youtube,"516,950,958",0.084638782,0.134127657,0.003752212
+Nusrat Fateh Ali Khan,Hai Kahan Ka Irada,"Revamped, Vol. 3 (Remix)",album,Pop,"6,416,977","91,901",TRUE,"1,926,052",Youtube,"8,434,930",0.001086077,0.002959986,0.000568741
+11:11 Music Group,"eyes blue or brown, can't remember","eyes blue or brown, can't remember",single,Pop,"221,228","2,813",FALSE,"26,488,952",Spotify,"26,712,993",3.7443E-05,9.06023E-05,0.007821879
+Yiruma,River Flows in You - Orchestra Version,The Rewritten Memories,album,Pop,"445,522","4,589",FALSE,"8,770,855",Spotify,"9,220,966",7.54049E-05,0.000147804,0.002589931
+Connor Price,Gasoline,Gasoline,single,Pop,"236,174","4,417",TRUE,"18,985,508",Spotify,"19,226,099",3.99726E-05,0.000142265,0.005606199
+Frédéric Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,album,Pop,"213,646,433","2,230,373",TRUE,"75,768,932",Youtube,"291,645,738",0.036159787,0.071836795,0.022373683
+Chris Stapleton,Joy Of My Life,Starting Over,album,Pop,"11,508,697","54,962",TRUE,"57,249,686",Spotify,"68,813,345",0.001947854,0.001770239,0.016905166
+Destiny's Child,Lose My Breath,Destiny Fulfilled,album,Pop,"127,208,450","614,864",TRUE,"104,899,869",Youtube,"232,723,183",0.021530107,0.019803799,0.03097571
+Mohit Chauhan,Tujhe Bhula Diya,Anjaana Anjaani,album,Pop,"108,416,965","1,173,844",TRUE,"50,414,439",Youtube,"160,005,248",0.018349637,0.037807663,0.014886797
+Rekha Bhardwaj,Aise Kyun - Ghazal Version,Mismatched: Season 2 (Music from the Netflix Series),album,Pop,"9,258,013","177,620",TRUE,"28,104,503",Spotify,"37,540,136",0.001566924,0.00572086,0.008298932
+R. Kelly,Cookie,Black Panties (Deluxe Version),album,Pop,"9,232,345","64,346",FALSE,"51,498,385",Spotify,"60,795,076",0.00156258,0.002072483,0.015206873
+Banda Machos,Historia sin fin,Historia sin fin,album,Pop,"417,902","1,945",FALSE,"66,463,599",Spotify,"66,883,446",7.07302E-05,6.26454E-05,0.019625927
+Galantis,Run (with Galantis),Only Honest On The Weekend (Deluxe),album,Pop,"9,139,126","71,173",TRUE,"60,811,787",Spotify,"70,022,086",0.001546803,0.00229237,0.017957012
+Elevation Worship,LION (feat. Chris Brown & Brandon Lake),LION,album,Pop,"25,780,642","282,010",TRUE,"18,835,632",Youtube,"44,898,284",0.004363389,0.009083097,0.005561943
+Prince,"Little Red Corvette - 7"" Edit - 2019 Remaster",1999 (Super Deluxe Edition),album,Pop,"36,132,559","232,658",TRUE,0,Youtube,"36,365,217",0.006115457,0.007493547,0
+Claude Debussy,"Rêverie, L. 68: Rêverie","Debussy: Complete Works for Solo Piano, Vol.1",album,Pop,"15,974,768","107,236",FALSE,"51,210,863",Spotify,"67,292,867",0.002703739,0.003453902,0.015121971
+Faith Hill,Breathe,Breathe,album,Pop,"32,119,215","196,953",TRUE,"104,125,277",Spotify,"136,441,445",0.005436196,0.006343545,0.030746982
+H.E.R.,Damage,Back of My Mind,album,Pop,"142,933,399","1,074,786",TRUE,"82,524,966",Youtube,"226,533,151",0.024191564,0.034617161,0.024368661
+Outkast,Player's Ball,Southernplayalisticadillacmuzik,album,Pop,"9,750,595","105,443",TRUE,"41,610,291",Spotify,"51,466,329",0.001650294,0.003396153,0.012287034
+2Pac,2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg),All Eyez On Me,album,Pop,"18,949,722","251,281",FALSE,"178,709,066",Spotify,"197,910,069",0.003207252,0.008093364,0.052770706
+Mabel,Mad Love - Blinkie Remix,Mad Love (Remixes),single,Pop,"3,424,359","30,250",FALSE,"56,188,545",Spotify,"59,643,154",0.000579575,0.000974305,0.016591823
+De La Ghetto,ULTRA SOLO REMIX,ULTRA SOLO REMIX,single,Pop,"140,641,090","1,146,290",FALSE,"215,026,398",Spotify,"356,813,778",0.023803589,0.036920192,0.063494791
+Lamb of God,Laid to Rest,Ashes of the Wake (15th Anniversary),album,Pop,"21,459,553","169,749",TRUE,"107,661,259",Spotify,"129,290,561",0.003632042,0.005467347,0.031791116
+Rod Stewart,Have I Told You Lately - 2008 Remaster,Vagabond Heart (Expanded Edition),album,Pop,"20,536,490","110,124",FALSE,"103,721,988",Spotify,"124,368,602",0.003475813,0.00354692,0.030627895
+C418,Haggstrom,Minecraft - Volume Alpha,album,Pop,"3,579,767","96,181",TRUE,"33,958,892",Spotify,"37,634,840",0.000605878,0.003097838,0.010027665
+Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,The Neptunes Present... Clones,album,Pop,"59,095,041","433,116",TRUE,"114,177,468",Spotify,"173,705,625",0.010001871,0.013949983,0.033715277
+Jay Wheeler,Lugar Seguro,Emociones,album,Pop,"18,332,860","110,030",FALSE,"14,891,497",Youtube,"33,334,387",0.003102848,0.003543893,0.004397286
+Rema,Soundgasm,Rave & Roses,album,Pop,"70,077,748","605,338",FALSE,"78,491,577",Spotify,"149,174,663",0.011860701,0.019496982,0.023177649
+Zé Felipe,OLHADINHA,OLHADINHA,single,Pop,"8,326,513","123,642",TRUE,"8,566,046",Spotify,"17,016,201",0.001409267,0.003982314,0.002529454
+SEGA SOUND TEAM,Super Sonic Racing,Sonic R Original Soundtrack,album,Pop,"1,112,679","21,263",TRUE,"6,138,669",Spotify,"7,272,611",0.000188322,0.000684848,0.001812677
+Howard Shore,Concerning Hobbits,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),compilation,Pop,"345,701","4,817",FALSE,"91,669,566",Spotify,"92,020,084",5.85101E-05,0.000155148,0.027068955
+Aventura,Enseñame a Olvidar,We Broke The Rules,album,Pop,"107,734,059","328,851",TRUE,"133,975,334",Spotify,"242,038,244",0.018234054,0.010591772,0.039561356
+M. M. Keeravani,Nunugu Misalodu,Yamadonga (Original Motion Picture Soundtrack),album,Pop,"1,481,487","15,710",TRUE,"5,979,351",Spotify,"7,476,548",0.000250743,0.000505994,0.001765633
+Gustavo Mioto,Envolvidão - Ao Vivo Em Santa Catarina / 2022,Pé Na Areia (Ao Vivo Em Santa Catarina / 2022),single,Pop,"11,432,795","69,635",TRUE,"15,499,152",Spotify,"27,001,582",0.001935007,0.002242833,0.004576719
+6ix9ine,GOTTI,Day69: Graduation Day,album,Pop,"534,681,903","4,097,001",FALSE,"231,064,701",Youtube,"769,843,605",0.090495234,0.131957937,0.068230715
+Ms. Lauryn Hill,Doo Wop (That Thing),The Miseducation of Lauryn Hill,album,Pop,"155,585,471","1,046,356",TRUE,"327,451,076",Spotify,"484,082,903",0.026332935,0.033701476,0.096692489
+Angèle,Balance ton quoi,Brol,album,Pop,"109,316,740","1,320,502",FALSE,"147,602,964",Spotify,"258,240,206",0.018501924,0.042531286,0.043585436
+Leon Bridges,Bad Bad News,Good Thing,album,Pop,"7,423,829","80,553",TRUE,"80,190,287",Spotify,"87,694,669",0.001256488,0.002594485,0.023679258
+Duran Duran,A View to a Kill,Decade,compilation,Pop,"8,255,803","68,880",TRUE,"59,888,563",Spotify,"68,213,246",0.0013973,0.002218516,0.017684395
+La Factoria,Todavía,Dj Pablito Presenta- La Factoría,album,Pop,"8,877,499","105,704",TRUE,"244,331,008",Spotify,"253,314,211",0.001502522,0.003404559,0.072148101
+The Wiggles,Hot Potato,The Best of The Wiggles,compilation,Pop,"1,432,178","6,540",FALSE,"33,048,574",Spotify,"34,487,292",0.000242397,0.000210643,0.009758859
+LP,Lost on You,Lost on You,album,Pop,"52,547,966","309,373",TRUE,"629,760,955",Spotify,"682,618,294",0.008893775,0.009964416,0.185961076
+Blur,Good Song,Think Tank (Special Edition),album,Pop,"5,207,289","22,306",TRUE,"9,386,790",Spotify,"14,616,385",0.000881337,0.000718441,0.00277181
+The Smiths,This Charming Man - 2011 Remaster,The Smiths,album,Pop,"82,334,090","558,978",TRUE,"325,100,346",Spotify,"407,993,414",0.013935094,0.018003799,0.095998346
+Leonardo,Ainda Ontem Chorei de Saudade - Ao Vivo,Leonardo e Eduardo Costa no Cabaré (Ao Vivo),album,Pop,"40,205,845","188,515",TRUE,"21,166,745",Youtube,"61,561,105",0.006804863,0.006071771,0.006250293
+Polimá Westcoast,BABY OTAKU,BABY OTAKU,single,Pop,"46,918,479","418,093",FALSE,"130,206,023",Spotify,"177,542,595",0.007940981,0.013466116,0.038448322
+Maher Zain,Allahi Allah Kiya Karo - Vocals Only Version,Thank You Allah (Vocals Only - No Music Version),album,Pop,"47,910,732","435,675",TRUE,"7,351,465",Youtube,"55,697,872",0.00810892,0.014032404,0.002170802
+Jimin,With you,"Our Blues, Pt. 4 (Original Television Soundtrack)",single,Pop,"35,912,951","1,228,555",TRUE,0,Youtube,"37,141,506",0.006078289,0.039569818,0
+Guns N' Roses,Welcome To The Jungle,Appetite For Destruction,album,Pop,"539,233,715","2,963,285",TRUE,"885,393,374",Spotify,"1,427,590,374",0.091265631,0.095442734,0.261446352
+Fünf Freunde,152 - und das Geheimnis der Kelly Brüder - Teil 02,Folge 152: und das Geheimnis der Kelly Brüder,album,Pop,552,12,FALSE,"39,052",Spotify,"39,616",9.34263E-08,3.86501E-07,1.15316E-05
+Dino James,Pyaar Pyaar,D,album,Pop,"10,679,154","377,700",FALSE,"5,534,564",Youtube,"16,591,418",0.001807453,0.012165121,0.001634292
+Owl City,Vanilla Twilight,Ocean Eyes (Deluxe Version),album,Pop,"78,613,807","493,083",TRUE,"89,360,473",Spotify,"168,467,363",0.013305434,0.015881425,0.026387107
+Plain White T's,Should've Gone to Bed,Should've Gone to Bed - EP,single,Pop,"1,678,230","13,114",TRUE,"3,653,513",Spotify,"5,344,857",0.000284041,0.000422381,0.00107884
+Glee Cast,"Baby, It's Cold Outside (feat. Darren Criss)","Glee: The Music, The Christmas Album",album,Pop,"2,720,062","47,994",FALSE,"62,932,751",Spotify,"65,700,807",0.000460372,0.001545811,0.018583308
+CeeLo Green,The Night Begins To Shine,Teen Titans Go! (Songs From The Night Begins To Shine Special),single,Pop,"1,487,510","17,843",TRUE,"4,113,970",Spotify,"5,619,323",0.000251762,0.000574695,0.001214807
+Marcos Witt,Escucharte Hablar,Enciende una Luz,album,Pop,"3,663,397","14,700",FALSE,"13,290,858",Spotify,"16,968,955",0.000620032,0.000473464,0.003924636
+Rubén Blades,Tú Sí Sabes Quererme,"Un Canto por México, Vol. II",album,Pop,"653,221","24,417",TRUE,"8,591,388",Spotify,"9,269,026",0.000110558,0.000786433,0.002536937
+The Score,Legend,ATLAS,album,Pop,"13,601,768","245,245",TRUE,"211,950,806",Spotify,"225,797,819",0.002302107,0.007898954,0.062586605
+The Cranberries,Sunday,"Everybody Else Is Doing It, So Why Can't We?",album,Pop,"91,516","1,214",FALSE,"9,523,393",Spotify,"9,616,123",1.54891E-05,3.9101E-05,0.002812147
+Tiakola,FLEURS (feat. Tiakola),KMT,album,Pop,"546,684","6,937",FALSE,"39,342,584",Spotify,"39,896,205",9.25266E-05,0.00022343,0.011617407
+Brad Paisley,She's Everything,Time Well Wasted,album,Pop,"77,653,564","394,760",TRUE,"113,807,657",Spotify,"191,855,981",0.013142912,0.012714597,0.033606076
+Jory Boy,Sin Perse,Sin Perse,single,Pop,"1,670,846","16,963",FALSE,"1,346,133",Youtube,"3,033,942",0.000282792,0.000546351,0.000397497
+Los Bukis,A Donde Vayas,Y Para Siempre ...,album,Pop,"402,805","4,654",FALSE,"96,521,906",Spotify,"96,929,365",6.8175E-05,0.000149898,0.028501795
+Péricles,Até Que Durou - Ao Vivo,Até Que Durou (Ao Vivo),single,Pop,0,0,FALSE,"70,131,947",Spotify,"70,131,947",0,0,0.020709147
+Traditional,"Il est né, le divin enfant",Les chants de Noël du monde,compilation,Pop,"131,403","1,164",FALSE,"38,212",Youtube,"170,779",2.224E-05,3.74906E-05,1.12836E-05
+Müslüm Gürses,Sigara,Yalan Dünya,album,Pop,"9,233,903","34,581",TRUE,"31,060,272",Spotify,"40,328,756",0.001562844,0.001113799,0.009171737
+Bad Bunny,Ojitos Lindos,Un Verano Sin Ti,album,Reggaeton,"3,188,811","38,370",FALSE,"872,322,869",Spotify,"875,550,050",0.000539708,0.001235837,0.257586784
+Divya Kumar,Shubhaarambh,Celebrate Kai Po Che (Original Motion Picture Soundtrack),album,Pop,"15,886,439","228,024",TRUE,"20,101,610",Spotify,"36,216,073",0.002688789,0.007344293,0.005935771
+Palak Muchhal,Dekha Hazaro Dafaa,Rustom (Original Motion Picture Soundtrack),compilation,Pop,"105,416,680","863,827",TRUE,"31,076,062",Youtube,"137,356,569",0.017841837,0.027822505,0.009176399
+Gusttavo Lima,Cara da Derrota - Ao Vivo,Buteco Goiânia (Ao Vivo),album,Pop,"29,463,934","111,643",FALSE,"32,872,413",Spotify,"62,447,990",0.004986789,0.003595845,0.009706841
+Kris Kristofferson,"Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",Live - American Outlaws,album,Pop,"5,212,294","27,521",TRUE,"5,085,132",Youtube,"10,324,947",0.000882184,0.000886408,0.00150158
+Cristian Castro,Color Esperanza / Sólo le Pido a Dios - Versión México,Color Esperanza / Sólo le Pido a Dios (Versión México),single,Pop,"120,609","4,108",TRUE,"9,149,565",Spotify,"9,274,282",2.04131E-05,0.000132312,0.00270176
+Ennio Morricone,Gabriel's Oboe,The Mission: Music From The Motion Picture,album,Pop,"8,406,437","63,069",TRUE,"48,877,206",Spotify,"57,346,712",0.001422795,0.002031353,0.01443287
+Jeff Beck,Come Dancing,Wired,album,Pop,"395,755","3,555",FALSE,"5,156,422",Spotify,"5,555,732",6.69818E-05,0.000114501,0.001522631
+Shreya Ghoshal,Munbe Vaa,Silunu Oru Kadhal,album,Pop,"808,247","16,354",FALSE,"46,214,786",Spotify,"47,039,387",0.000136796,0.000526737,0.013646688
+Hugh Jackman,Come Alive,The Greatest Showman (Original Motion Picture Soundtrack),compilation,Pop,"391,524","4,316",FALSE,"265,866,616",Spotify,"266,262,456",6.62657E-05,0.000139012,0.078507315
+John Legend,What Christmas Means to Me (feat. Stevie Wonder),A Legendary Christmas,album,Pop,"2,054,540","10,171",TRUE,"40,228,986",Spotify,"42,293,697",0.000347732,0.000327592,0.011879151
+Metallica,The Unforgiven (Remastered),Metallica (Remastered),album,Metal,"426,125,708","1,781,690",FALSE,0,Youtube,"427,907,398",0.072122033,0.057385423,0
+Ghostface Killah,Sour Soul,Sour Soul,album,Pop,"200,871","2,103",FALSE,"12,213,950",Spotify,"12,416,924",3.39975E-05,6.77343E-05,0.003606637
+WIU,Oração,Manual de Como Amar Errado,album,Pop,"6,880,201","280,381",FALSE,"6,948,469",Spotify,"14,109,051",0.001164478,0.00903063,0.002051802
+Misfits,Some Kinda Hate - C.I. Recording 1978,The Misfits Box Set,album,Pop,"3,354,404","32,301",TRUE,"12,450,113",Spotify,"15,836,818",0.000567735,0.001040364,0.003676373
+Gazo,MAUVAIS 2X (feat. Ninho),MAUVAIS 2X (feat. Ninho),single,Pop,"28,923,285","235,305",FALSE,"51,663,165",Spotify,"80,821,755",0.004895283,0.007578803,0.015255531
+Thomas Rhett,Make Me Wanna,It Goes Like This,album,Pop,"53,631,856","195,554",TRUE,"110,513,723",Spotify,"164,341,133",0.009077224,0.006298486,0.032633415
+Los Yonic's,Pero Te Vas A Arrepentir,Volveré A Conquistarte,album,Pop,"62,741,840","176,463",TRUE,"59,059,352",Youtube,"121,977,655",0.010619094,0.005683595,0.017439539
+A Tribe Called Quest,Electric Relaxation,The Anthology,compilation,Pop,"41,167,375","414,035",TRUE,"121,774,534",Spotify,"163,355,944",0.006967603,0.013335414,0.035958602
+Kimbra,new habit,A Reckoning,album,Pop,"6,370",149,TRUE,"29,241",Spotify,"35,760",1.07813E-06,4.79905E-06,8.63453E-06
+Counting Crows,Colorblind,This Desert Life,album,Pop,"19,268,639","78,721",FALSE,"61,658,408",Spotify,"81,005,768",0.003261229,0.002535479,0.01820701
+Insane Clown Posse,What Is A Juggalo?,The Great Milenko,album,Pop,"227,274","1,192",FALSE,"10,520,830",Spotify,"10,749,296",3.84663E-05,3.83924E-05,0.003106679
+James Blake,"King's Dead (with Kendrick Lamar, Future & James Blake)","King's Dead (with Kendrick Lamar, Future & James Blake)",single,Pop,"141,340,149","1,763,637",TRUE,"525,330,567",Spotify,"668,434,353",0.023921905,0.056803965,0.155123998
+Lil Peep,Star Shopping,Star Shopping,single,Pop,"86,499","3,856",FALSE,"798,993,758",Spotify,"799,084,113",1.464E-05,0.000124196,0.235933551
+Los Prisioneros,La Voz de los '80,La Voz de los '80 (Edición 30 Años),album,Pop,"42,809",580,FALSE,"24,364,820",Spotify,"24,408,209",7.24545E-06,1.86809E-05,0.007194648
+Clean Bandit,Drive (feat. Wes Nelson),Drive (feat. Wes Nelson),single,Pop,"19,939,648","141,191",TRUE,"107,544,414",Spotify,"127,625,253",0.003374797,0.004547539,0.031756613
+Theory of a Deadman,Dinosaur,Dinosaur,single,Pop,"391,480","6,817",TRUE,"1,432,119",Spotify,"1,830,416",6.62582E-05,0.000219565,0.000422888
+City Girls,Ex For A Reason (with JT from City Girls),Still Over It,album,Pop,"14,271,313","208,126",TRUE,"62,580,633",Spotify,"77,060,072",0.002415428,0.00670341,0.018479332
